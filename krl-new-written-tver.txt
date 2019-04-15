@@ -1,0 +1,1290 @@
+# Karelian Proper: New written Tver
+akka	akanke	N;COM;SG
+akka	akan	N;GEN;SG
+akka	akkua	N;PRT;SG
+akka	akoin	N;GEN;PL
+akka	akoin	N;INS;PL
+akka	akka	N;NOM;SG
+akka	akkana	N;FRML;SG
+akka	akaksi	N;TRANS;SG
+akka	akassa	N;IN+ESS;SG
+akka	akasta	N;IN+ABL;SG
+akka	akkah	N;IN+ALL;SG
+akka	akalla	N;AT+ESS+ALL;SG
+akka	akalda	N;AT+ABL;SG
+akka	akatta	N;PRIV ;SG
+akka	akačči	N;PROL;SG
+akka	akat	N;NOM;PL
+akka	akkoida	N;PRT;PL
+akka	akkoina	N;FRML;PL
+akka	akoiksi	N;TRANS;PL
+akka	akoissa	N;IN+ESS;PL
+akka	akoista	N;IN+ABL;PL
+akka	akkoih	N;IN+ALL;PL
+akka	akoilla	N;AT+ESS+ALL;PL
+akka	akoilda	N;AT+ABL;PL
+akka	akoitta	N;PRIV ;PL
+akka	akoinke	N;COM;PL
+akka	akoičči	N;PROL;PL
+andua	andan	V.PTCP;PST;ACT;PRS;PRF
+andua	annan	V;PRS;IND;POS;1;SG
+andua	annat	V;PRS;IND;POS;2;SG
+andua	andau	V;PRS;IND;POS;3;SG
+andua	annetah	V;PRS;IND;POS;3;PL
+andua	en anna	V;PRS;IND;NEG;1;SG
+andua	et anna	V;PRS;IND;NEG;2;SG
+andua	ei anna	V;PRS;IND;NEG;3;SG
+andua	ei anneta	V;PRS;IND;NEG;3;PL
+andua	annoin	V;PST;IPFV;IND;POS;1;SG
+andua	annoit	V;PST;IPFV;IND;POS;2;SG
+andua	annettih	V;PST;IPFV;IND;POS;3;PL
+andua	ei annettu	V;PST;IPFV;IND;NEG;3;PL
+andua	annamma	V;PRS;IND;POS;1;PL
+andua	annatta	V;PRS;IND;POS;2;PL
+andua	emmä anna	V;PRS;IND;NEG;1;PL
+andua	että anna	V;PRS;IND;NEG;2;PL
+andua	ando	V;PST;IPFV;IND;POS;3;SG
+andua	andoma	V;PST;IPFV;IND;POS;1;PL
+andua	andoja	V;PST;IPFV;IND;POS;2;PL
+andua	en andan	V;PST;IPFV;IND;NEG;1;SG
+andua	et andan	V;PST;IPFV;IND;NEG;2;SG
+andua	ei andan	V;PST;IPFV;IND;NEG;3;SG
+andua	emmä andan	V;PST;IPFV;IND;NEG;1;PL
+andua	että andan	V;PST;IPFV;IND;NEG;2;PL
+andua	olen andan	V;PRS;PRF;IND;POS;1;SG
+andua	olet andan	V;PRS;PRF;IND;POS;2;SG
+andua	on andan	V;PRS;PRF;IND;POS;3;SG
+andua	olemma andan	V;PRS;PRF;IND;POS;1;PL
+andua	oletta andan	V;PRS;PRF;IND;POS;2;PL
+andua	ollah annettu	V;PRS;PRF;IND;POS;3;PL
+andua	en ole andan	V;PRS;PRF;IND;NEG;1;SG
+andua	et ole andan	V;PRS;PRF;IND;NEG;2;SG
+andua	ei ole andan	V;PRS;PRF;IND;NEG;3;SG
+andua	emmä ole andan	V;PRS;PRF;IND;NEG;1;PL
+andua	että ole andan	V;PRS;PRF;IND;NEG;2;PL
+andua	ei ole annettu	V;PRS;PRF;IND;NEG;3;PL
+andua	olin andan	V;PST;PRF;IND;POS;1;SG
+andua	olit andan	V;PST;PRF;IND;POS;2;SG
+andua	oli andan	V;PST;PRF;IND;POS;3;SG
+andua	olima andan	V;PST;PRF;IND;POS;1;PL
+andua	olija andan	V;PST;PRF;IND;POS;2;PL
+andua	oldih annettu	V;PST;PRF;IND;POS;3;PL
+andua	en ollun andan	V;PST;PRF;IND;NEG;1;SG
+andua	et ollun andan	V;PST;PRF;IND;NEG;2;SG
+andua	ei ollun andan	V;PST;PRF;IND;NEG;3;SG
+andua	emmä ollun andan	V;PST;PRF;IND;NEG;1;PL
+andua	että ollun andan	V;PST;PRF;IND;NEG;2;PL
+andua	ei oldu annettu	V;PST;PRF;IND;NEG;3;PL
+andua	anna	V;IMP;POS;2;SG
+andua	andakkah	V;IMP;POS;3;SG
+andua	andakkah	V;IMP;POS;3;PL
+andua	andakkua	V;IMP;POS;2;PL
+andua	elä anna	V;IMP;NEG;2;SG
+andua	elgäh andakkah	V;IMP;NEG;3;SG
+andua	elgäh andakkah	V;IMP;NEG;3;PL
+andua	elgiä andakkua	V;IMP;NEG;2;PL
+andua	andazin	V;PST;IPFV;COND;POS;1;SG
+andua	andazit	V;PST;IPFV;COND;POS;2;SG
+andua	andais’	V;PST;IPFV;COND;POS;3;SG
+andua	andazima	V;PST;IPFV;COND;POS;1;PL
+andua	andazija	V;PST;IPFV;COND;POS;2;PL
+andua	annettais’	V;PST;IPFV;COND;POS;3;PL
+andua	en andais’	V;PST;IPFV;COND;NEG;1;SG
+andua	et andais’	V;PST;IPFV;COND;NEG;2;SG
+andua	ei andais’	V;PST;IPFV;COND;NEG;3;SG
+andua	emmä andais’	V;PST;IPFV;COND;NEG;1;PL
+andua	että andais’	V;PST;IPFV;COND;NEG;2;PL
+andua	ei annettais’	V;PST;IPFV;COND;NEG;3;PL
+andua	olizin andan	V;PST;PRF;COND;POS;1;SG
+andua	olizit andan	V;PST;PRF;COND;POS;2;SG
+andua	olis’ andan	V;PST;PRF;COND;POS;3;SG
+andua	olizima andan	V;PST;PRF;COND;POS;1;PL
+andua	olizija andan	V;PST;PRF;COND;POS;2;PL
+andua	olis’ annettu	V;PST;PRF;COND;POS;3;PL
+andua	en olis’ andan	V;PST;PRF;COND;NEG;1;SG
+andua	et olis’ andan	V;PST;PRF;COND;NEG;2;SG
+andua	ei olis’ andan	V;PST;PRF;COND;NEG;3;SG
+andua	emmä olis’ andan	V;PST;PRF;COND;NEG;1;PL
+andua	että olis’ andan	V;PST;PRF;COND;NEG;2;PL
+andua	ei olis’ annettu	V;PST;PRF;COND;NEG;3;PL
+andua	andannen	V;PRS;POT;POS;1;SG
+andua	andannet	V;PRS;POT;POS;2;SG
+andua	andannou	V;PRS;POT;POS;3;SG
+andua	andannemma	V;PRS;POT;POS;1;PL
+andua	andannetta	V;PRS;POT;POS;2;PL
+andua	annettanneh	V;PRS;POT;POS;3;PL
+andua	en andanne	V;PRS;POT;NEG;1;SG
+andua	et andanne	V;PRS;POT;NEG;2;SG
+andua	ei andanne	V;PRS;POT;NEG;3;SG
+andua	emmä andanne	V;PRS;POT;NEG;1;PL
+andua	että andanne	V;PRS;POT;NEG;2;PL
+andua	ei annettanne	V;PRS;POT;NEG;3;PL
+andua	lienen andan	V;PRS;PRF;POT;POS;1;SG
+andua	lienet andan	V;PRS;PRF;POT;POS;2;SG
+andua	lienöy andan	V;PRS;PRF;POT;POS;3;SG
+andua	lienemmä andan	V;PRS;PRF;POT;POS;1;PL
+andua	lienettä andan	V;PRS;PRF;POT;POS;2;PL
+andua	lienöy annettu	V;PRS;PRF;POT;POS;3;PL
+andua	en liene andan	V;PRS;PRF;POT;NEG;1;SG
+andua	et liene andan	V;PRS;PRF;POT;NEG;2;SG
+andua	ei liene andan	V;PRS;PRF;POT;NEG;3;SG
+andua	emmä liene andan	V;PRS;PRF;POT;NEG;1;PL
+andua	että liene andan	V;PRS;PRF;POT;NEG;2;PL
+andua	ei liene annettu	V;PRS;PRF;POT;NEG;3;PL
+andua	andua	V;NFIN
+andua	andaja	V.PTCP;PRS;ACT
+andua	andannun	V.PTCP;PST;ACT
+andua	annettava	V.PTCP;PRS;PASS
+andua	annettu	V.PTCP;PST;PASS
+eliä	elän	V;PRS;IND;POS;1;SG
+eliä	elän	V.PTCP;PST;ACT;PRS;PRF
+eliä	elät	V;PRS;IND;POS;2;SG
+eliä	elä	V;IMP;POS;2;SG
+eliä	eli	V;PST;IPFV;IND;POS;3;SG
+eliä	elin	V;PST;IPFV;IND;POS;1;SG
+eliä	eläy	V;PRS;IND;POS;3;SG
+eliä	eletäh	V;PRS;IND;POS;3;PL
+eliä	eliä	V;NFIN
+eliä	elit	V;PST;IPFV;IND;POS;2;SG
+eliä	elettih	V;PST;IPFV;IND;POS;3;PL
+eliä	elämmä	V;PRS;IND;POS;1;PL
+eliä	elättä	V;PRS;IND;POS;2;PL
+eliä	en elä	V;PRS;IND;NEG;1;SG
+eliä	et elä	V;PRS;IND;NEG;2;SG
+eliä	ei elä	V;PRS;IND;NEG;3;SG
+eliä	emmä elä	V;PRS;IND;NEG;1;PL
+eliä	että elä	V;PRS;IND;NEG;2;PL
+eliä	ei eletä	V;PRS;IND;NEG;3;PL
+eliä	elimä	V;PST;IPFV;IND;POS;1;PL
+eliä	elijä	V;PST;IPFV;IND;POS;2;PL
+eliä	en elän	V;PST;IPFV;IND;NEG;1;SG
+eliä	et elän	V;PST;IPFV;IND;NEG;2;SG
+eliä	ei elän	V;PST;IPFV;IND;NEG;3;SG
+eliä	emmä elän	V;PST;IPFV;IND;NEG;1;PL
+eliä	että elän	V;PST;IPFV;IND;NEG;2;PL
+eliä	ei eletty	V;PST;IPFV;IND;NEG;3;PL
+eliä	olen elän	V;PRS;PRF;IND;POS;1;SG
+eliä	olet elän	V;PRS;PRF;IND;POS;2;SG
+eliä	on elän	V;PRS;PRF;IND;POS;3;SG
+eliä	olemma elän	V;PRS;PRF;IND;POS;1;PL
+eliä	oletta elän	V;PRS;PRF;IND;POS;2;PL
+eliä	ollah eletty	V;PRS;PRF;IND;POS;3;PL
+eliä	en ole elän	V;PRS;PRF;IND;NEG;1;SG
+eliä	et ole elän	V;PRS;PRF;IND;NEG;2;SG
+eliä	ei ole elän	V;PRS;PRF;IND;NEG;3;SG
+eliä	emmä ole elän	V;PRS;PRF;IND;NEG;1;PL
+eliä	että ole elän	V;PRS;PRF;IND;NEG;2;PL
+eliä	ei ole eletty	V;PRS;PRF;IND;NEG;3;PL
+eliä	olin elän	V;PST;PRF;IND;POS;1;SG
+eliä	olit elän	V;PST;PRF;IND;POS;2;SG
+eliä	oli elän	V;PST;PRF;IND;POS;3;SG
+eliä	olima elän	V;PST;PRF;IND;POS;1;PL
+eliä	olija elän	V;PST;PRF;IND;POS;2;PL
+eliä	oldih eletty	V;PST;PRF;IND;POS;3;PL
+eliä	en ollun elän	V;PST;PRF;IND;NEG;1;SG
+eliä	et ollun elän	V;PST;PRF;IND;NEG;2;SG
+eliä	ei ollun elän	V;PST;PRF;IND;NEG;3;SG
+eliä	emmä ollun elän	V;PST;PRF;IND;NEG;1;PL
+eliä	että ollun elän	V;PST;PRF;IND;NEG;2;PL
+eliä	ei oldu eletty	V;PST;PRF;IND;NEG;3;PL
+eliä	eläkkäh	V;IMP;POS;3;SG
+eliä	eläkkäh	V;IMP;POS;3;PL
+eliä	eläkkiä	V;IMP;POS;2;PL
+eliä	elä elä	V;IMP;NEG;2;SG
+eliä	elgäh eläkkäh	V;IMP;NEG;3;SG
+eliä	elgäh eläkkäh	V;IMP;NEG;3;PL
+eliä	elgiä eläkkiä	V;IMP;NEG;2;PL
+eliä	eläzin	V;PST;IPFV;COND;POS;1;SG
+eliä	eläzit	V;PST;IPFV;COND;POS;2;SG
+eliä	eläis’	V;PST;IPFV;COND;POS;3;SG
+eliä	eläzimä	V;PST;IPFV;COND;POS;1;PL
+eliä	eläzijä	V;PST;IPFV;COND;POS;2;PL
+eliä	elettäis’	V;PST;IPFV;COND;POS;3;PL
+eliä	en eläis’	V;PST;IPFV;COND;NEG;1;SG
+eliä	et eläis’	V;PST;IPFV;COND;NEG;2;SG
+eliä	ei eläis’	V;PST;IPFV;COND;NEG;3;SG
+eliä	emmä eläis’	V;PST;IPFV;COND;NEG;1;PL
+eliä	että eläis’	V;PST;IPFV;COND;NEG;2;PL
+eliä	ei elettäis’	V;PST;IPFV;COND;NEG;3;PL
+eliä	olizin elän	V;PST;PRF;COND;POS;1;SG
+eliä	olizit elän	V;PST;PRF;COND;POS;2;SG
+eliä	olis’ elän	V;PST;PRF;COND;POS;3;SG
+eliä	olizima elän	V;PST;PRF;COND;POS;1;PL
+eliä	olizija elän	V;PST;PRF;COND;POS;2;PL
+eliä	olis’ eletty	V;PST;PRF;COND;POS;3;PL
+eliä	en olis’ elän	V;PST;PRF;COND;NEG;1;SG
+eliä	et olis’ elän	V;PST;PRF;COND;NEG;2;SG
+eliä	ei olis’ elän	V;PST;PRF;COND;NEG;3;SG
+eliä	emmä olis’ elän	V;PST;PRF;COND;NEG;1;PL
+eliä	että olis’ elän	V;PST;PRF;COND;NEG;2;PL
+eliä	ei olis’ eletty	V;PST;PRF;COND;NEG;3;PL
+eliä	elännen	V;PRS;POT;POS;1;SG
+eliä	elännet	V;PRS;POT;POS;2;SG
+eliä	elännöy	V;PRS;POT;POS;3;SG
+eliä	elännemmä	V;PRS;POT;POS;1;PL
+eliä	elännettä	V;PRS;POT;POS;2;PL
+eliä	elettänneh	V;PRS;POT;POS;3;PL
+eliä	en elänne	V;PRS;POT;NEG;1;SG
+eliä	et elänne	V;PRS;POT;NEG;2;SG
+eliä	ei elänne	V;PRS;POT;NEG;3;SG
+eliä	emmä elänne	V;PRS;POT;NEG;1;PL
+eliä	että elänne	V;PRS;POT;NEG;2;PL
+eliä	ei elettänne	V;PRS;POT;NEG;3;PL
+eliä	lienen elän	V;PRS;PRF;POT;POS;1;SG
+eliä	lienet elän	V;PRS;PRF;POT;POS;2;SG
+eliä	lienöy elän	V;PRS;PRF;POT;POS;3;SG
+eliä	lienemmä elän	V;PRS;PRF;POT;POS;1;PL
+eliä	lienettä elän	V;PRS;PRF;POT;POS;2;PL
+eliä	lienöy eletty	V;PRS;PRF;POT;POS;3;PL
+eliä	en liene elän	V;PRS;PRF;POT;NEG;1;SG
+eliä	et liene elän	V;PRS;PRF;POT;NEG;2;SG
+eliä	ei liene elän	V;PRS;PRF;POT;NEG;3;SG
+eliä	emmä liene elän	V;PRS;PRF;POT;NEG;1;PL
+eliä	että liene elän	V;PRS;PRF;POT;NEG;2;PL
+eliä	ei liene eletty	V;PRS;PRF;POT;NEG;3;PL
+eliä	eläjä	V.PTCP;PRS;ACT
+eliä	elettävä	V.PTCP;PRS;PASS
+eliä	eletty	V.PTCP;PST;PASS
+eliä	elännyn	V.PTCP;PST;ACT
+hiän	hänenke	PRO;COM;SG
+hiän	hänen	PRO;GEN;SG
+hiän	hiän	PRO;NOM;SG
+hiän	hänet	PRO;ACC;SG
+hiän	händä	PRO;PRT;SG
+hiän	hänekši	PRO;TRANS;SG
+hiän	häneššä	PRO;IN+ESS;SG
+hiän	häneštä	PRO;IN+ABL;SG
+hiän	häneh	PRO;IN+ALL;SG
+hiän	hänellä	PRO;AT+ESS+ALL;SG
+hiän	häneldä	PRO;AT+ABL;SG
+hiän	hänettä	PRO;PRIV ;SG
+hiän	hänenä	PRO;FRML;SG
+hyö	hiän	PRO;GEN;PL
+hyö	hyö	PRO;NOM;PL
+hyö	hiät	PRO;ACC;PL
+hyö	heidä	PRO;PRT;PL
+hyö	heiksi	PRO;TRANS;PL
+hyö	heissä	PRO;IN+ESS;PL
+hyö	heistä	PRO;IN+ABL;PL
+hyö	heih	PRO;IN+ALL;PL
+hyö	heilä	PRO;AT+ESS+ALL;PL
+hyö	heildä	PRO;AT+ABL;PL
+hyö	heittä	PRO;PRIV ;PL
+hyö	heinke	PRO;COM;PL
+hyö	heinä	PRO;FRML;PL
+juuva	joit	V;PST;IPFV;IND;POS;2;SG
+juuva	juodu	V.PTCP;PST;PASS
+juuva	juon	V;PRS;IND;POS;1;SG
+juuva	juou	V;PRS;IND;POS;3;SG
+juuva	joi	V;PST;IPFV;IND;POS;3;SG
+juuva	juot	V;PRS;IND;POS;2;SG
+juuva	juomma	V;PRS;IND;POS;1;PL
+juuva	juotta	V;PRS;IND;POS;2;PL
+juuva	juuvah	V;PRS;IND;POS;3;PL
+juuva	en juo	V;PRS;IND;NEG;1;SG
+juuva	et juo	V;PRS;IND;NEG;2;SG
+juuva	ei juo	V;PRS;IND;NEG;3;SG
+juuva	emmä juo	V;PRS;IND;NEG;1;PL
+juuva	että juo	V;PRS;IND;NEG;2;PL
+juuva	ei juuva	V;PRS;IND;NEG;3;PL
+juuva	join	V;PST;IPFV;IND;POS;1;SG
+juuva	joimma	V;PST;IPFV;IND;POS;1;PL
+juuva	joitta	V;PST;IPFV;IND;POS;2;PL
+juuva	juodih	V;PST;IPFV;IND;POS;3;PL
+juuva	en juonun	V;PST;IPFV;IND;NEG;1;SG
+juuva	et juonun	V;PST;IPFV;IND;NEG;2;SG
+juuva	ei juonun	V;PST;IPFV;IND;NEG;3;SG
+juuva	emmä juonun	V;PST;IPFV;IND;NEG;1;PL
+juuva	että juonun	V;PST;IPFV;IND;NEG;2;PL
+juuva	ei juodu	V;PST;IPFV;IND;NEG;3;PL
+juuva	olen juonun	V;PRS;PRF;IND;POS;1;SG
+juuva	olet juonun	V;PRS;PRF;IND;POS;2;SG
+juuva	on juonun	V;PRS;PRF;IND;POS;3;SG
+juuva	olemma juonun	V;PRS;PRF;IND;POS;1;PL
+juuva	oletta juonun	V;PRS;PRF;IND;POS;2;PL
+juuva	ollah juodu	V;PRS;PRF;IND;POS;3;PL
+juuva	en ole juonun	V;PRS;PRF;IND;NEG;1;SG
+juuva	et ole juonun	V;PRS;PRF;IND;NEG;2;SG
+juuva	ei ole juonun	V;PRS;PRF;IND;NEG;3;SG
+juuva	emmä ole juonun	V;PRS;PRF;IND;NEG;1;PL
+juuva	että ole juonun	V;PRS;PRF;IND;NEG;2;PL
+juuva	ei ole juodu	V;PRS;PRF;IND;NEG;3;PL
+juuva	olin juonun	V;PST;PRF;IND;POS;1;SG
+juuva	olit juonun	V;PST;PRF;IND;POS;2;SG
+juuva	oli juonun	V;PST;PRF;IND;POS;3;SG
+juuva	olima juonun	V;PST;PRF;IND;POS;1;PL
+juuva	olija juonun	V;PST;PRF;IND;POS;2;PL
+juuva	oldih juodu	V;PST;PRF;IND;POS;3;PL
+juuva	en ollun juonun	V;PST;PRF;IND;NEG;1;SG
+juuva	et ollun juonun	V;PST;PRF;IND;NEG;2;SG
+juuva	ei ollun juonun	V;PST;PRF;IND;NEG;3;SG
+juuva	emmä ollun juonun	V;PST;PRF;IND;NEG;1;PL
+juuva	että ollun juonun	V;PST;PRF;IND;NEG;2;PL
+juuva	ei oldu juodu	V;PST;PRF;IND;NEG;3;PL
+juuva	juo	V;IMP;POS;2;SG
+juuva	juogah	V;IMP;POS;3;SG
+juuva	juogah	V;IMP;POS;3;PL
+juuva	juogua	V;IMP;POS;2;PL
+juuva	elä juo	V;IMP;NEG;2;SG
+juuva	elgäh juogah	V;IMP;NEG;3;SG
+juuva	elgäh juogah	V;IMP;NEG;3;PL
+juuva	elgiä juogua	V;IMP;NEG;2;PL
+juuva	joizin	V;PST;IPFV;COND;POS;1;SG
+juuva	joizit	V;PST;IPFV;COND;POS;2;SG
+juuva	jois’	V;PST;IPFV;COND;POS;3;SG
+juuva	joizima	V;PST;IPFV;COND;POS;1;PL
+juuva	joizija	V;PST;IPFV;COND;POS;2;PL
+juuva	juodais’	V;PST;IPFV;COND;POS;3;PL
+juuva	en jois’	V;PST;IPFV;COND;NEG;1;SG
+juuva	et jois’	V;PST;IPFV;COND;NEG;2;SG
+juuva	ei jois’	V;PST;IPFV;COND;NEG;3;SG
+juuva	emmä jois’	V;PST;IPFV;COND;NEG;1;PL
+juuva	että jois’	V;PST;IPFV;COND;NEG;2;PL
+juuva	ei juodais’	V;PST;IPFV;COND;NEG;3;PL
+juuva	olizin juonun	V;PST;PRF;COND;POS;1;SG
+juuva	olizit juonun	V;PST;PRF;COND;POS;2;SG
+juuva	olis’ juonun	V;PST;PRF;COND;POS;3;SG
+juuva	olizima juonun	V;PST;PRF;COND;POS;1;PL
+juuva	olizija juonun	V;PST;PRF;COND;POS;2;PL
+juuva	olis’ juodu	V;PST;PRF;COND;POS;3;PL
+juuva	en olis’ juonun	V;PST;PRF;COND;NEG;1;SG
+juuva	et olis’ juonun	V;PST;PRF;COND;NEG;2;SG
+juuva	ei olis’ juonun	V;PST;PRF;COND;NEG;3;SG
+juuva	emmä olis’ juonun	V;PST;PRF;COND;NEG;1;PL
+juuva	että olis’ juonun	V;PST;PRF;COND;NEG;2;PL
+juuva	ei olis’ juodu	V;PST;PRF;COND;NEG;3;PL
+juuva	juonnen	V;PRS;POT;POS;1;SG
+juuva	juonnet	V;PRS;POT;POS;2;SG
+juuva	juonnou	V;PRS;POT;POS;3;SG
+juuva	juonnemma	V;PRS;POT;POS;1;PL
+juuva	juonnetta	V;PRS;POT;POS;2;PL
+juuva	juodanneh	V;PRS;POT;POS;3;PL
+juuva	en juonne	V;PRS;POT;NEG;1;SG
+juuva	et juonne	V;PRS;POT;NEG;2;SG
+juuva	ei juonne	V;PRS;POT;NEG;3;SG
+juuva	emmä juonne	V;PRS;POT;NEG;1;PL
+juuva	että juonne	V;PRS;POT;NEG;2;PL
+juuva	ei juodanne	V;PRS;POT;NEG;3;PL
+juuva	lienen juonun	V;PRS;PRF;POT;POS;1;SG
+juuva	lienet juonun	V;PRS;PRF;POT;POS;2;SG
+juuva	lienöy juonun	V;PRS;PRF;POT;POS;3;SG
+juuva	lienemmä juonun	V;PRS;PRF;POT;POS;1;PL
+juuva	lienettä juonun	V;PRS;PRF;POT;POS;2;PL
+juuva	lienöy juodu	V;PRS;PRF;POT;POS;3;PL
+juuva	en liene juonun	V;PRS;PRF;POT;NEG;1;SG
+juuva	et liene juonun	V;PRS;PRF;POT;NEG;2;SG
+juuva	ei liene juonun	V;PRS;PRF;POT;NEG;3;SG
+juuva	emmä liene juonun	V;PRS;PRF;POT;NEG;1;PL
+juuva	että liene juonun	V;PRS;PRF;POT;NEG;2;PL
+juuva	ei liene juodu	V;PRS;PRF;POT;NEG;3;PL
+juuva	juuva	V;NFIN
+juuva	juoja	V.PTCP;PRS;ACT
+juuva	juonun	V.PTCP;PST;ACT
+juuva	juonun	V.PTCP;PST;ACT;PRS;PRF
+juuva	juodava	V.PTCP;PRS;PASS
+kaččuo	kačo	V;IMP;POS;2;SG
+kaččuo	kačon	V;PRS;IND;POS;1;SG
+kaččuo	kaččou	V;PRS;IND;POS;3;SG
+kaččuo	kačotah	V;PRS;IND;POS;3;PL
+kaččuo	kaččuo	V;NFIN
+kaččuo	kačot	V;PRS;IND;POS;2;SG
+kaččuo	kačomma	V;PRS;IND;POS;1;PL
+kaččuo	kačotta	V;PRS;IND;POS;2;PL
+kaččuo	en kačo	V;PRS;IND;NEG;1;SG
+kaččuo	et kačo	V;PRS;IND;NEG;2;SG
+kaččuo	ei kačo	V;PRS;IND;NEG;3;SG
+kaččuo	emmä kačo	V;PRS;IND;NEG;1;PL
+kaččuo	että kačo	V;PRS;IND;NEG;2;PL
+kaččuo	ei kačota	V;PRS;IND;NEG;3;PL
+kaččuo	kačoin	V;PST;IPFV;IND;POS;1;SG
+kaččuo	kačoit	V;PST;IPFV;IND;POS;2;SG
+kaččuo	kaččo	V;PST;IPFV;IND;POS;3;SG
+kaččuo	kaččoma	V;PST;IPFV;IND;POS;1;PL
+kaččuo	kaččoja	V;PST;IPFV;IND;POS;2;PL
+kaččuo	kaččoja	V.PTCP;PRS;ACT
+kaččuo	kačottih	V;PST;IPFV;IND;POS;3;PL
+kaččuo	en kaččon	V;PST;IPFV;IND;NEG;1;SG
+kaččuo	et kaččon	V;PST;IPFV;IND;NEG;2;SG
+kaččuo	ei kaččon	V;PST;IPFV;IND;NEG;3;SG
+kaččuo	emmä kaččon	V;PST;IPFV;IND;NEG;1;PL
+kaččuo	että kaččon	V;PST;IPFV;IND;NEG;2;PL
+kaččuo	ei kačottu	V;PST;IPFV;IND;NEG;3;PL
+kaččuo	olen kaččon	V;PRS;PRF;IND;POS;1;SG
+kaččuo	olet kaččon	V;PRS;PRF;IND;POS;2;SG
+kaččuo	on kaččon	V;PRS;PRF;IND;POS;3;SG
+kaččuo	olemma kaččon	V;PRS;PRF;IND;POS;1;PL
+kaččuo	oletta kaččon	V;PRS;PRF;IND;POS;2;PL
+kaččuo	ollah kačottu	V;PRS;PRF;IND;POS;3;PL
+kaččuo	en ole kaččon	V;PRS;PRF;IND;NEG;1;SG
+kaččuo	et ole kaččon	V;PRS;PRF;IND;NEG;2;SG
+kaččuo	ei ole kaččon	V;PRS;PRF;IND;NEG;3;SG
+kaččuo	emmä ole kaččon	V;PRS;PRF;IND;NEG;1;PL
+kaččuo	että ole kaččon	V;PRS;PRF;IND;NEG;2;PL
+kaččuo	ei ole kačottu	V;PRS;PRF;IND;NEG;3;PL
+kaččuo	olin kaččon	V;PST;PRF;IND;POS;1;SG
+kaččuo	olit kaččon	V;PST;PRF;IND;POS;2;SG
+kaččuo	oli kaččon	V;PST;PRF;IND;POS;3;SG
+kaččuo	olima kaččon	V;PST;PRF;IND;POS;1;PL
+kaččuo	olija kaččon	V;PST;PRF;IND;POS;2;PL
+kaččuo	oldih kačottu	V;PST;PRF;IND;POS;3;PL
+kaččuo	en ollun kaččon	V;PST;PRF;IND;NEG;1;SG
+kaččuo	et ollun kaččon	V;PST;PRF;IND;NEG;2;SG
+kaččuo	ei ollun kaččon	V;PST;PRF;IND;NEG;3;SG
+kaččuo	emmä ollun kaččon	V;PST;PRF;IND;NEG;1;PL
+kaččuo	että ollun kaččon	V;PST;PRF;IND;NEG;2;PL
+kaččuo	ei oldu kačottu	V;PST;PRF;IND;NEG;3;PL
+kaččuo	kaččokkah	V;IMP;POS;3;SG
+kaččuo	kaččokkah	V;IMP;POS;3;PL
+kaččuo	kaččokkua	V;IMP;POS;2;PL
+kaččuo	elä kačo	V;IMP;NEG;2;SG
+kaččuo	elgäh kaččokkah	V;IMP;NEG;3;SG
+kaččuo	elgäh kaččokkah	V;IMP;NEG;3;PL
+kaččuo	elgiä kaččokkua	V;IMP;NEG;2;PL
+kaččuo	kaččozin	V;PST;IPFV;COND;POS;1;SG
+kaččuo	kaččozit	V;PST;IPFV;COND;POS;2;SG
+kaččuo	kaččois’	V;PST;IPFV;COND;POS;3;SG
+kaččuo	kaččozima	V;PST;IPFV;COND;POS;1;PL
+kaččuo	kaččozija	V;PST;IPFV;COND;POS;2;PL
+kaččuo	kačottais’	V;PST;IPFV;COND;POS;3;PL
+kaččuo	en kaččois’	V;PST;IPFV;COND;NEG;1;SG
+kaččuo	et kaččois’	V;PST;IPFV;COND;NEG;2;SG
+kaččuo	ei kaččois’	V;PST;IPFV;COND;NEG;3;SG
+kaččuo	emmä kaččois’	V;PST;IPFV;COND;NEG;1;PL
+kaččuo	että kaččois’	V;PST;IPFV;COND;NEG;2;PL
+kaččuo	ei kačottais’	V;PST;IPFV;COND;NEG;3;PL
+kaččuo	olizin kaččon	V;PST;PRF;COND;POS;1;SG
+kaččuo	olizit kaččon	V;PST;PRF;COND;POS;2;SG
+kaččuo	olis’ kaččon	V;PST;PRF;COND;POS;3;SG
+kaččuo	olizima kaččon	V;PST;PRF;COND;POS;1;PL
+kaččuo	olizija kaččon	V;PST;PRF;COND;POS;2;PL
+kaččuo	olis’ kačottu	V;PST;PRF;COND;POS;3;PL
+kaččuo	en olis’ kaččon	V;PST;PRF;COND;NEG;1;SG
+kaččuo	et olis’ kaččon	V;PST;PRF;COND;NEG;2;SG
+kaččuo	ei olis’ kaččon	V;PST;PRF;COND;NEG;3;SG
+kaččuo	emmä olis’ kaččon	V;PST;PRF;COND;NEG;1;PL
+kaččuo	että olis’ kaččon	V;PST;PRF;COND;NEG;2;PL
+kaččuo	ei olis’ kačottu	V;PST;PRF;COND;NEG;3;PL
+kaččuo	kaččonnen	V;PRS;POT;POS;1;SG
+kaččuo	kaččonnet	V;PRS;POT;POS;2;SG
+kaččuo	kaččonnou	V;PRS;POT;POS;3;SG
+kaččuo	kaččonnemma	V;PRS;POT;POS;1;PL
+kaččuo	kaččonnetta	V;PRS;POT;POS;2;PL
+kaččuo	kačottanneh	V;PRS;POT;POS;3;PL
+kaččuo	en kaččonne	V;PRS;POT;NEG;1;SG
+kaččuo	et kaččonne	V;PRS;POT;NEG;2;SG
+kaččuo	ei kaččonne	V;PRS;POT;NEG;3;SG
+kaččuo	emmä kaččonne	V;PRS;POT;NEG;1;PL
+kaččuo	että kaččonne	V;PRS;POT;NEG;2;PL
+kaččuo	ei kačottanne	V;PRS;POT;NEG;3;PL
+kaččuo	lienen kaččon	V;PRS;PRF;POT;POS;1;SG
+kaččuo	lienet kaččon	V;PRS;PRF;POT;POS;2;SG
+kaččuo	lienöy kaččon	V;PRS;PRF;POT;POS;3;SG
+kaččuo	lienemmä kaččon	V;PRS;PRF;POT;POS;1;PL
+kaččuo	lienettä kaččon	V;PRS;PRF;POT;POS;2;PL
+kaččuo	lienöy kačottu	V;PRS;PRF;POT;POS;3;PL
+kaččuo	en liene kaččon	V;PRS;PRF;POT;NEG;1;SG
+kaččuo	et liene kaččon	V;PRS;PRF;POT;NEG;2;SG
+kaččuo	ei liene kaččon	V;PRS;PRF;POT;NEG;3;SG
+kaččuo	emmä liene kaččon	V;PRS;PRF;POT;NEG;1;PL
+kaččuo	että liene kaččon	V;PRS;PRF;POT;NEG;2;PL
+kaččuo	ei liene kačottu	V;PRS;PRF;POT;NEG;3;PL
+kaččuo	kaččonnun	V.PTCP;PST;ACT
+kaččuo	kaččon	V.PTCP;PST;ACT;PRS;PRF
+kaččuo	kačottava	V.PTCP;PRS;PASS
+kaččuo	kačottu	V.PTCP;PST;PASS
+kirveš	kirvehen	N;GEN;SG
+kirveš	kirveš	N;NOM;SG
+kirveš	kirveštä	N;PRT;SG
+kirveš	kirvehenä	N;FRML;SG
+kirveš	kirveheksi	N;TRANS;SG
+kirveš	kirvehessä	N;IN+ESS;SG
+kirveš	kirvehestä	N;IN+ABL;SG
+kirveš	kirveheh	N;IN+ALL;SG
+kirveš	kirvehellä	N;AT+ESS+ALL;SG
+kirveš	kirveheldä	N;AT+ABL;SG
+kirveš	kirvehettä	N;PRIV ;SG
+kirveš	kirvehenke	N;COM;SG
+kirveš	kirvehečči	N;PROL;SG
+kirveš	kirvehet	N;NOM;PL
+kirveš	kirvehin	N;GEN;PL
+kirveš	kirvehin	N;INS;PL
+kirveš	kirvehie	N;PRT;PL
+kirveš	kirvehinä	N;FRML;PL
+kirveš	kirvehiksi	N;TRANS;PL
+kirveš	kirvehissä	N;IN+ESS;PL
+kirveš	kirvehistä	N;IN+ABL;PL
+kirveš	kirvehih	N;IN+ALL;PL
+kirveš	kirvehillä	N;AT+ESS+ALL;PL
+kirveš	kirvehildä	N;AT+ABL;PL
+kirveš	kirvehittä	N;PRIV ;PL
+kirveš	kirvehinke	N;COM;PL
+kirveš	kirvehičči	N;PROL;PL
+leibä	leivän	N;GEN;SG
+leibä	leibiä	N;PRT;SG
+leibä	leivät	N;NOM;PL
+leibä	leibä	N;NOM;SG
+leibä	leibänä	N;FRML;SG
+leibä	leiväkši	N;TRANS;SG
+leibä	leiväššä	N;IN+ESS;SG
+leibä	leiväštä	N;IN+ABL;SG
+leibä	leibäh	N;IN+ALL;SG
+leibä	leivällä	N;AT+ESS+ALL;SG
+leibä	leiväldä	N;AT+ABL;SG
+leibä	leivättä	N;PRIV ;SG
+leibä	leivänke	N;COM;SG
+leibä	leiväčči	N;PROL;SG
+leibä	leivin	N;GEN;PL
+leibä	leivin	N;INS;PL
+leibä	leibie	N;PRT;PL
+leibä	leibinä	N;FRML;PL
+leibä	leiviksi	N;TRANS;PL
+leibä	leivissä	N;IN+ESS;PL
+leibä	leivistä	N;IN+ABL;PL
+leibä	leibih	N;IN+ALL;PL
+leibä	leivillä	N;AT+ESS+ALL;PL
+leibä	leivildä	N;AT+ABL;PL
+leibä	leivittä	N;PRIV ;PL
+leibä	leivinke	N;COM;PL
+leibä	leivičči	N;PROL;PL
+liha	liha	N;NOM;SG
+liha	lihan	N;GEN;SG
+liha	lihua	N;PRT;SG
+liha	lihana	N;FRML;SG
+liha	lihakši	N;TRANS;SG
+liha	lihašša	N;IN+ESS;SG
+liha	lihašta	N;IN+ABL;SG
+liha	lihah	N;IN+ALL;SG
+liha	lihalla	N;AT+ESS+ALL;SG
+liha	lihalda	N;AT+ABL;SG
+liha	lihatta	N;PRIV ;SG
+liha	lihanke	N;COM;SG
+liha	lihačči	N;PROL;SG
+liha	lihat	N;NOM;PL
+liha	lihoin	N;GEN;PL
+liha	lihoin	N;INS;PL
+liha	lihoida	N;PRT;PL
+liha	lihoina	N;FRML;PL
+liha	lihoiksi	N;TRANS;PL
+liha	lihoissa	N;IN+ESS;PL
+liha	lihoista	N;IN+ABL;PL
+liha	lihoih	N;IN+ALL;PL
+liha	lihoilla	N;AT+ESS+ALL;PL
+liha	lihoilda	N;AT+ABL;PL
+liha	lihoitta	N;PRIV ;PL
+liha	lihoinke	N;COM;PL
+liha	lihoičči	N;PROL;PL
+löttö	lötön	N;GEN;SG
+löttö	löttyö	N;PRT;SG
+löttö	löttönä	N;FRML;SG
+löttö	lötöksi	N;TRANS;SG
+löttö	lötössä	N;IN+ESS;SG
+löttö	lötöstä	N;IN+ABL;SG
+löttö	löttöh	N;IN+ALL;SG
+löttö	lötöllä	N;AT+ESS+ALL;SG
+löttö	lötöldä	N;AT+ABL;SG
+löttö	lötöttä	N;PRIV ;SG
+löttö	lötönke	N;COM;SG
+löttö	lötöčči	N;PROL;SG
+löttö	lötöt	N;NOM;PL
+löttö	löttölöin	N;GEN;PL
+löttö	löttölöin	N;INS;PL
+löttö	löttölöidä	N;PRT;PL
+löttö	löttölöinä	N;FRML;PL
+löttö	löttölöiksi	N;TRANS;PL
+löttö	löttölöissä	N;IN+ESS;PL
+löttö	löttölöistä	N;IN+ABL;PL
+löttö	löttölöih	N;IN+ALL;PL
+löttö	löttölöillä	N;AT+ESS+ALL;PL
+löttö	löttölöildä	N;AT+ABL;PL
+löttö	löttölöittä	N;PRIV ;PL
+löttö	löttölöinke	N;COM;PL
+löttö	löttölöičči	N;PROL;PL
+löttö	löttö	N;NOM;SG
+mie	mie	PRO;NOM;SG
+mie	miut	PRO;ACC;SG
+mie	miun	PRO;GEN;SG
+mie	milma	PRO;PRT;SG
+mie	miukši	PRO;TRANS;SG
+mie	miušša	PRO;IN+ESS;SG
+mie	miušta	PRO;IN+ABL;SG
+mie	miuh	PRO;IN+ALL;SG
+mie	miula	PRO;AT+ESS+ALL;SG
+mie	miulda	PRO;AT+ABL;SG
+mie	miutta	PRO;PRIV ;SG
+mie	miunke	PRO;COM;SG
+mie	miuna	PRO;FRML;SG
+mua	muan	N;GEN;SG
+mua	mua	N;NOM;SG
+mua	muada	N;PRT;SG
+mua	muana	N;FRML;SG
+mua	muaksi	N;TRANS;SG
+mua	muassa	N;IN+ESS;SG
+mua	muasta	N;IN+ABL;SG
+mua	muah	N;IN+ALL;SG
+mua	mualla	N;AT+ESS+ALL;SG
+mua	mualda	N;AT+ABL;SG
+mua	muatta	N;PRIV ;SG
+mua	muanke	N;COM;SG
+mua	muačči	N;PROL;SG
+mua	muat	N;NOM;PL
+mua	mualoin	N;GEN;PL
+mua	mualoin	N;INS;PL
+mua	mualoida	N;PRT;PL
+mua	mualoina	N;FRML;PL
+mua	mualoiksi	N;TRANS;PL
+mua	mualoissa	N;IN+ESS;PL
+mua	mualoista	N;IN+ABL;PL
+mua	mualoih	N;IN+ALL;PL
+mua	mualoilla	N;AT+ESS+ALL;PL
+mua	mualoilda	N;AT+ABL;PL
+mua	mualoitta	N;PRIV ;PL
+mua	mualoinke	N;COM;PL
+mua	mualoičči	N;PROL;PL
+muata	maguan	V;PRS;IND;POS;1;SG
+muata	maguau	V;PRS;IND;POS;3;SG
+muata	muatah	V;PRS;IND;POS;3;PL
+muata	muata	V;NFIN
+muata	muattu	V.PTCP;PST;PASS
+muata	maguat	V;PRS;IND;POS;2;SG
+muata	maguamma	V;PRS;IND;POS;1;PL
+muata	maguatta	V;PRS;IND;POS;2;PL
+muata	en magua	V;PRS;IND;NEG;1;SG
+muata	et magua	V;PRS;IND;NEG;2;SG
+muata	ei magua	V;PRS;IND;NEG;3;SG
+muata	emmä magua	V;PRS;IND;NEG;1;PL
+muata	että magua	V;PRS;IND;NEG;2;PL
+muata	ei muata	V;PRS;IND;NEG;3;PL
+muata	magain	V;PST;IPFV;IND;POS;1;SG
+muata	magait	V;PST;IPFV;IND;POS;2;SG
+muata	magai	V;PST;IPFV;IND;POS;3;SG
+muata	magaimma	V;PST;IPFV;IND;POS;1;PL
+muata	magaitta	V;PST;IPFV;IND;POS;2;PL
+muata	muattih	V;PST;IPFV;IND;POS;3;PL
+muata	en muannun	V;PST;IPFV;IND;NEG;1;SG
+muata	et muannun	V;PST;IPFV;IND;NEG;2;SG
+muata	ei muannun	V;PST;IPFV;IND;NEG;3;SG
+muata	emmä muannun	V;PST;IPFV;IND;NEG;1;PL
+muata	että muannun	V;PST;IPFV;IND;NEG;2;PL
+muata	ei muattu	V;PST;IPFV;IND;NEG;3;PL
+muata	olen muannun	V;PRS;PRF;IND;POS;1;SG
+muata	olet muannun	V;PRS;PRF;IND;POS;2;SG
+muata	on muannun	V;PRS;PRF;IND;POS;3;SG
+muata	olemma muannun	V;PRS;PRF;IND;POS;1;PL
+muata	oletta muannun	V;PRS;PRF;IND;POS;2;PL
+muata	ollah muattu	V;PRS;PRF;IND;POS;3;PL
+muata	en ole muannun	V;PRS;PRF;IND;NEG;1;SG
+muata	et ole muannun	V;PRS;PRF;IND;NEG;2;SG
+muata	ei ole muannun	V;PRS;PRF;IND;NEG;3;SG
+muata	emmä ole muannun	V;PRS;PRF;IND;NEG;1;PL
+muata	että ole muannun	V;PRS;PRF;IND;NEG;2;PL
+muata	ei ole muattu	V;PRS;PRF;IND;NEG;3;PL
+muata	olin muannun	V;PST;PRF;IND;POS;1;SG
+muata	olit muannun	V;PST;PRF;IND;POS;2;SG
+muata	oli muannun	V;PST;PRF;IND;POS;3;SG
+muata	olima muannun	V;PST;PRF;IND;POS;1;PL
+muata	olija muannun	V;PST;PRF;IND;POS;2;PL
+muata	oldih muattu	V;PST;PRF;IND;POS;3;PL
+muata	en ollun muannun	V;PST;PRF;IND;NEG;1;SG
+muata	et ollun muannun	V;PST;PRF;IND;NEG;2;SG
+muata	ei ollun muannun	V;PST;PRF;IND;NEG;3;SG
+muata	emmä ollun muannun	V;PST;PRF;IND;NEG;1;PL
+muata	että ollun muannun	V;PST;PRF;IND;NEG;2;PL
+muata	ei oldu muattu	V;PST;PRF;IND;NEG;3;PL
+muata	magua	V;IMP;POS;2;SG
+muata	muakkah	V;IMP;POS;3;SG
+muata	muakkah	V;IMP;POS;3;PL
+muata	muakkua	V;IMP;POS;2;PL
+muata	elä magua	V;IMP;NEG;2;SG
+muata	elgäh muakkah	V;IMP;NEG;3;SG
+muata	elgäh muakkah	V;IMP;NEG;3;PL
+muata	elgiä muakkua	V;IMP;NEG;2;PL
+muata	magaizin	V;PST;IPFV;COND;POS;1;SG
+muata	magaizit	V;PST;IPFV;COND;POS;2;SG
+muata	magais’	V;PST;IPFV;COND;POS;3;SG
+muata	magaizima	V;PST;IPFV;COND;POS;1;PL
+muata	magaizija	V;PST;IPFV;COND;POS;2;PL
+muata	muattais’	V;PST;IPFV;COND;POS;3;PL
+muata	en magais’	V;PST;IPFV;COND;NEG;1;SG
+muata	et magais’	V;PST;IPFV;COND;NEG;2;SG
+muata	ei magais’	V;PST;IPFV;COND;NEG;3;SG
+muata	emmä magais’	V;PST;IPFV;COND;NEG;1;PL
+muata	että magais’	V;PST;IPFV;COND;NEG;2;PL
+muata	ei muattais’	V;PST;IPFV;COND;NEG;3;PL
+muata	olizin muannun	V;PST;PRF;COND;POS;1;SG
+muata	olizit muannun	V;PST;PRF;COND;POS;2;SG
+muata	olis’ muannun	V;PST;PRF;COND;POS;3;SG
+muata	olizima muannun	V;PST;PRF;COND;POS;1;PL
+muata	olizija muannun	V;PST;PRF;COND;POS;2;PL
+muata	olis’ muattu	V;PST;PRF;COND;POS;3;PL
+muata	en olis’ muannun	V;PST;PRF;COND;NEG;1;SG
+muata	et olis’ muannun	V;PST;PRF;COND;NEG;2;SG
+muata	ei olis’ muannun	V;PST;PRF;COND;NEG;3;SG
+muata	emmä olis’ muannun	V;PST;PRF;COND;NEG;1;PL
+muata	että olis’ muannun	V;PST;PRF;COND;NEG;2;PL
+muata	ei olis’ muattu	V;PST;PRF;COND;NEG;3;PL
+muata	muannen	V;PRS;POT;POS;1;SG
+muata	muannet	V;PRS;POT;POS;2;SG
+muata	muannou	V;PRS;POT;POS;3;SG
+muata	muannemma	V;PRS;POT;POS;1;PL
+muata	muannetta	V;PRS;POT;POS;2;PL
+muata	muattanneh	V;PRS;POT;POS;3;PL
+muata	en muanne	V;PRS;POT;NEG;1;SG
+muata	et muanne	V;PRS;POT;NEG;2;SG
+muata	ei muanne	V;PRS;POT;NEG;3;SG
+muata	emmä muanne	V;PRS;POT;NEG;1;PL
+muata	että muanne	V;PRS;POT;NEG;2;PL
+muata	ei muattanne	V;PRS;POT;NEG;3;PL
+muata	lienen muannun	V;PRS;PRF;POT;POS;1;SG
+muata	lienet muannun	V;PRS;PRF;POT;POS;2;SG
+muata	lienöy muannun	V;PRS;PRF;POT;POS;3;SG
+muata	lienemmä muannun	V;PRS;PRF;POT;POS;1;PL
+muata	lienettä muannun	V;PRS;PRF;POT;POS;2;PL
+muata	lienöy muattu	V;PRS;PRF;POT;POS;3;PL
+muata	en liene muannun	V;PRS;PRF;POT;NEG;1;SG
+muata	et liene muannun	V;PRS;PRF;POT;NEG;2;SG
+muata	ei liene muannun	V;PRS;PRF;POT;NEG;3;SG
+muata	emmä liene muannun	V;PRS;PRF;POT;NEG;1;PL
+muata	että liene muannun	V;PRS;PRF;POT;NEG;2;PL
+muata	ei liene muattu	V;PRS;PRF;POT;NEG;3;PL
+muata	maguaja	V.PTCP;PRS;ACT
+muata	muannun	V.PTCP;PST;ACT
+muata	muannun	V.PTCP;PST;ACT;PRS;PRF
+muata	muattava	V.PTCP;PRS;PASS
+myö	myö	PRO;NOM;PL
+myö	miät	PRO;ACC;PL
+myö	miän	PRO;GEN;PL
+myö	meidä	PRO;PRT;PL
+myö	meiksi	PRO;TRANS;PL
+myö	meissä	PRO;IN+ESS;PL
+myö	meistä	PRO;IN+ABL;PL
+myö	meih	PRO;IN+ALL;PL
+myö	meilä	PRO;AT+ESS+ALL;PL
+myö	meildä	PRO;AT+ABL;PL
+myö	meittä	PRO;PRIV ;PL
+myö	meinke	PRO;COM;PL
+myö	meinä	PRO;FRML;PL
+olla	olit	V;PST;IPFV;IND;POS;2;SG
+olla	olet	V;PRS;IND;POS;2;SG
+olla	olen	V;PRS;IND;POS;1;SG
+olla	olin	V;PST;IPFV;IND;POS;1;SG
+olla	ole	V;IMP;POS;2;SG
+olla	oli	V;PST;IPFV;IND;POS;3;SG
+olla	on	V;PRS;IND;POS;3;SG
+olla	ollah	V;PRS;IND;POS;3;PL
+olla	olla	V;NFIN
+olla	oldih	V;PST;IPFV;IND;POS;3;PL
+olla	en ole	V;PRS;IND;NEG;1;SG
+olla	ei ole	V;PRS;IND;NEG;3;SG
+olla	olemma	V;PRS;IND;POS;1;PL
+olla	oletta	V;PRS;IND;POS;2;PL
+olla	et ole	V;PRS;IND;NEG;2;SG
+olla	emmä ole	V;PRS;IND;NEG;1;PL
+olla	että ole	V;PRS;IND;NEG;2;PL
+olla	ei olla	V;PRS;IND;NEG;3;PL
+olla	olima	V;PST;IPFV;IND;POS;1;PL
+olla	olija	V;PST;IPFV;IND;POS;2;PL
+olla	olija	V.PTCP;PRS;ACT
+olla	en ollun	V;PST;IPFV;IND;NEG;1;SG
+olla	et ollun	V;PST;IPFV;IND;NEG;2;SG
+olla	ei ollun	V;PST;IPFV;IND;NEG;3;SG
+olla	emmä ollun	V;PST;IPFV;IND;NEG;1;PL
+olla	että ollun	V;PST;IPFV;IND;NEG;2;PL
+olla	olen ollun	V;PRS;PRF;IND;POS;1;SG
+olla	on ollun	V;PRS;PRF;IND;POS;3;SG
+olla	olemma ollun	V;PRS;PRF;IND;POS;1;PL
+olla	oletta ollun	V;PRS;PRF;IND;POS;2;PL
+olla	en ole ollun	V;PRS;PRF;IND;NEG;1;SG
+olla	et ole ollun	V;PRS;PRF;IND;NEG;2;SG
+olla	ei ole ollun	V;PRS;PRF;IND;NEG;3;SG
+olla	emmä ole ollun	V;PRS;PRF;IND;NEG;1;PL
+olla	että ole ollun	V;PRS;PRF;IND;NEG;2;PL
+olla	olin ollun	V;PST;PRF;IND;POS;1;SG
+olla	olit ollun	V;PST;PRF;IND;POS;2;SG
+olla	oli ollun	V;PST;PRF;IND;POS;3;SG
+olla	olima ollun	V;PST;PRF;IND;POS;1;PL
+olla	olija ollun	V;PST;PRF;IND;POS;2;PL
+olla	en ollun ollun	V;PST;PRF;IND;NEG;1;SG
+olla	et ollun ollun	V;PST;PRF;IND;NEG;2;SG
+olla	ei ollun ollun	V;PST;PRF;IND;NEG;3;SG
+olla	emmä ollun ollun	V;PST;PRF;IND;NEG;1;PL
+olla	että ollun ollun	V;PST;PRF;IND;NEG;2;PL
+olla	olet ollun	V;PRS;PRF;IND;POS;2;SG
+olla	olizin	V;PST;IPFV;COND;POS;1;SG
+olla	olizit	V;PST;IPFV;COND;POS;2;SG
+olla	olis’	V;PST;IPFV;COND;POS;3;SG
+olla	olizima	V;PST;IPFV;COND;POS;1;PL
+olla	olizija	V;PST;IPFV;COND;POS;2;PL
+olla	en olis’	V;PST;IPFV;COND;NEG;1;SG
+olla	et olis’	V;PST;IPFV;COND;NEG;2;SG
+olla	ei olis’	V;PST;IPFV;COND;NEG;3;SG
+olla	emmä olis’	V;PST;IPFV;COND;NEG;1;PL
+olla	että olis’	V;PST;IPFV;COND;NEG;2;PL
+olla	lienen	V;PRS;POT;POS;1;SG
+olla	lienet	V;PRS;POT;POS;2;SG
+olla	lienöy	V;PRS;POT;POS;3;SG
+olla	lienemmä	V;PRS;POT;POS;1;PL
+olla	lienettä	V;PRS;POT;POS;2;PL
+olla	en liene	V;PRS;POT;NEG;1;SG
+olla	et liene	V;PRS;POT;NEG;2;SG
+olla	ei liene	V;PRS;POT;NEG;3;SG
+olla	emmä liene	V;PRS;POT;NEG;1;PL
+olla	että liene	V;PRS;POT;NEG;2;PL
+olla	ei oldu	V;PST;IPFV;IND;NEG;3;PL
+olla	on oldu	V;PRS;PRF;IND;POS;3;PL
+olla	ei ole oldu	V;PRS;PRF;IND;NEG;3;PL
+olla	oli oldu	V;PST;PRF;IND;POS;3;PL
+olla	olgah	V;IMP;POS;3;SG
+olla	olgah	V;IMP;POS;3;PL
+olla	olgua	V;IMP;POS;2;PL
+olla	elä ole	V;IMP;NEG;2;SG
+olla	elgäh olgah	V;IMP;NEG;3;SG
+olla	elgiä olgua	V;IMP;NEG;2;PL
+olla	olgäh olgah	V;IMP;NEG;3;PL
+olla	oldais’	V;PST;IPFV;COND;POS;3;PL
+olla	ei oldais’	V;PST;IPFV;COND;NEG;3;PL
+olla	olizin ollun	V;PST;PRF;COND;POS;1;SG
+olla	olizit ollun	V;PST;PRF;COND;POS;2;SG
+olla	olizima ollun	V;PST;PRF;COND;POS;1;PL
+olla	olizija ollun	V;PST;PRF;COND;POS;2;PL
+olla	lietäh	V;PRS;POT;POS;3;PL
+olla	ei lietä	V;PRS;POT;NEG;3;PL
+olla	lienen ollun	V;PRS;PRF;POT;POS;1;SG
+olla	lienet ollun	V;PRS;PRF;POT;POS;2;SG
+olla	lienöy ollun	V;PRS;PRF;POT;POS;3;SG
+olla	lienemmä ollun	V;PRS;PRF;POT;POS;1;PL
+olla	lienettä ollun	V;PRS;PRF;POT;POS;2;PL
+olla	lienöy oldu	V;PRS;PRF;POT;POS;3;PL
+olla	en liene ollun	V;PRS;PRF;POT;NEG;1;SG
+olla	et liene ollun	V;PRS;PRF;POT;NEG;2;SG
+olla	ei liene ollun	V;PRS;PRF;POT;NEG;3;SG
+olla	emmä liene ollun	V;PRS;PRF;POT;NEG;1;PL
+olla	että liene ollun	V;PRS;PRF;POT;NEG;2;PL
+olla	ei liene oldu	V;PRS;PRF;POT;NEG;3;PL
+olla	ollun	V.PTCP;PST;ACT
+olla	ollun	V.PTCP;PST;ACT;PRS;PRF
+olla	oldava	V.PTCP;PRS;PASS
+olla	oldu	V.PTCP;PST;PASS
+olla	ei ollun oldu	V;PST;PRF;IND;NEG;3;PL
+olla	olis’ ollun	V;PST;PRF;COND;POS;3;SG
+olla	olis’ oldu	V;PST;PRF;COND;POS;3;PL
+olla	en olis’ ollun	V;PST;PRF;COND;NEG;1;SG
+olla	et olis’ ollun	V;PST;PRF;COND;NEG;2;SG
+olla	ei olis’ ollun	V;PST;PRF;COND;NEG;3;SG
+olla	emmä olis’ ollun	V;PST;PRF;COND;NEG;1;PL
+olla	että olis’ ollun	V;PST;PRF;COND;NEG;2;PL
+olla	ei olis’ oldu	V;PST;PRF;COND;NEG;3;PL
+paimen	paimen	N;NOM;SG
+paimen	paimenen	N;GEN;SG
+paimen	paimenda	N;PRT;SG
+paimen	paimenena	N;FRML;SG
+paimen	paimeneh	N;IN+ALL;SG
+paimen	paimenella	N;AT+ESS+ALL;SG
+paimen	paimenelda	N;AT+ABL;SG
+paimen	paimenetta	N;PRIV ;SG
+paimen	paimenenke	N;COM;SG
+paimen	paimenečči	N;PROL;SG
+paimen	paimenet	N;NOM;PL
+paimen	paimenin	N;GEN;PL
+paimen	paimenin	N;INS;PL
+paimen	paimenie	N;PRT;PL
+paimen	paimenina	N;FRML;PL
+paimen	paimeniksi	N;TRANS;PL
+paimen	paimenissa	N;IN+ESS;PL
+paimen	paimenista	N;IN+ABL;PL
+paimen	paimenih	N;IN+ALL;PL
+paimen	paimenilla	N;AT+ESS+ALL;PL
+paimen	paimenilda	N;AT+ABL;PL
+paimen	paimenitta	N;PRIV ;PL
+paimen	paimeninke	N;COM;PL
+paimen	paimeničči	N;PROL;PL
+paimen	paimenekši	N;TRANS;SG
+paimen	paimenešša	N;IN+ESS;SG
+paimen	paimenešta	N;IN+ABL;SG
+pidiä	pidi	V;PST;IPFV;IND;POS;3;SG
+pidiä	pidäy	V;PRS;IND;POS;3;SG
+pidiä	pidiä	V;NFIN
+pidiä	ei pie	V;PRS;IND;NEG;3;SG
+pidiä	ei pidän	V;PST;IPFV;IND;NEG;3;SG
+pidiä	pidi	V;PST;IPFV;IND;POS;3;SG
+pidiä	pien	V;PRS;IND;POS;1;SG
+pidiä	pidäy	V;PRS;IND;POS;3;SG
+pidiä	pietäh	V;PRS;IND;POS;3;PL
+pidiä	pidiä	V;NFIN
+pidiä	piet	V;PRS;IND;POS;2;SG
+pidiä	piemmä	V;PRS;IND;POS;1;PL
+pidiä	piettä	V;PRS;IND;POS;2;PL
+pidiä	en pie	V;PRS;IND;NEG;1;SG
+pidiä	et pie	V;PRS;IND;NEG;2;SG
+pidiä	ei pie	V;PRS;IND;NEG;3;SG
+pidiä	emmä pie	V;PRS;IND;NEG;1;PL
+pidiä	että pie	V;PRS;IND;NEG;2;PL
+pidiä	ei pietä	V;PRS;IND;NEG;3;PL
+pidiä	pijin	V;PST;IPFV;IND;POS;1;SG
+pidiä	pijit	V;PST;IPFV;IND;POS;2;SG
+pidiä	pidimä	V;PST;IPFV;IND;POS;1;PL
+pidiä	pidijä	V;PST;IPFV;IND;POS;2;PL
+pidiä	piettih	V;PST;IPFV;IND;POS;3;PL
+pidiä	en pidän	V;PST;IPFV;IND;NEG;1;SG
+pidiä	et pidän	V;PST;IPFV;IND;NEG;2;SG
+pidiä	ei pidän	V;PST;IPFV;IND;NEG;3;SG
+pidiä	emmä pidän	V;PST;IPFV;IND;NEG;1;PL
+pidiä	että pidän	V;PST;IPFV;IND;NEG;2;PL
+pidiä	ei pietty	V;PST;IPFV;IND;NEG;3;PL
+pidiä	olen pidän	V;PRS;PRF;IND;POS;1;SG
+pidiä	olet pidän	V;PRS;PRF;IND;POS;2;SG
+pidiä	on pidän	V;PRS;PRF;IND;POS;3;SG
+pidiä	olemma pidän	V;PRS;PRF;IND;POS;1;PL
+pidiä	oletta pidän	V;PRS;PRF;IND;POS;2;PL
+pidiä	ollah pietty	V;PRS;PRF;IND;POS;3;PL
+pidiä	en ole pidän	V;PRS;PRF;IND;NEG;1;SG
+pidiä	et ole pidän	V;PRS;PRF;IND;NEG;2;SG
+pidiä	ei ole pidän	V;PRS;PRF;IND;NEG;3;SG
+pidiä	emmä ole pidän	V;PRS;PRF;IND;NEG;1;PL
+pidiä	että ole pidän	V;PRS;PRF;IND;NEG;2;PL
+pidiä	ei ole pietty	V;PRS;PRF;IND;NEG;3;PL
+pidiä	olin pidän	V;PST;PRF;IND;POS;1;SG
+pidiä	olit pidän	V;PST;PRF;IND;POS;2;SG
+pidiä	oli pidän	V;PST;PRF;IND;POS;3;SG
+pidiä	olima pidän	V;PST;PRF;IND;POS;1;PL
+pidiä	olija pidän	V;PST;PRF;IND;POS;2;PL
+pidiä	oldih pietty	V;PST;PRF;IND;POS;3;PL
+pidiä	en ollun pidän	V;PST;PRF;IND;NEG;1;SG
+pidiä	et ollun pidän	V;PST;PRF;IND;NEG;2;SG
+pidiä	ei ollun pidän	V;PST;PRF;IND;NEG;3;SG
+pidiä	emmä ollun pidän	V;PST;PRF;IND;NEG;1;PL
+pidiä	että ollun pidän	V;PST;PRF;IND;NEG;2;PL
+pidiä	ei oldu pietty	V;PST;PRF;IND;NEG;3;PL
+pidiä	pie	V;IMP;POS;2;SG
+pidiä	pidäkkäh	V;IMP;POS;3;SG
+pidiä	pidäkkäh	V;IMP;POS;3;PL
+pidiä	pidäkkiä	V;IMP;POS;2;PL
+pidiä	elä pie	V;IMP;NEG;2;SG
+pidiä	elgäh pidäkkäh	V;IMP;NEG;3;SG
+pidiä	elgäh pidäkkäh	V;IMP;NEG;3;PL
+pidiä	elgiä pidäkkiä	V;IMP;NEG;2;PL
+pidiä	pidäzin	V;PST;IPFV;COND;POS;1;SG
+pidiä	pidäzit	V;PST;IPFV;COND;POS;2;SG
+pidiä	pidäis’	V;PST;IPFV;COND;POS;3;SG
+pidiä	pidäzimä	V;PST;IPFV;COND;POS;1;PL
+pidiä	pidäzijä	V;PST;IPFV;COND;POS;2;PL
+pidiä	piettäis’	V;PST;IPFV;COND;POS;3;PL
+pidiä	en pidäis’	V;PST;IPFV;COND;NEG;1;SG
+pidiä	et pidäis’	V;PST;IPFV;COND;NEG;2;SG
+pidiä	ei pidäis’	V;PST;IPFV;COND;NEG;3;SG
+pidiä	emmä pidäis’	V;PST;IPFV;COND;NEG;1;PL
+pidiä	että pidäis’	V;PST;IPFV;COND;NEG;2;PL
+pidiä	ei piettäis’	V;PST;IPFV;COND;NEG;3;PL
+pidiä	olizin pidän	V;PST;PRF;COND;POS;1;SG
+pidiä	olizit pidän	V;PST;PRF;COND;POS;2;SG
+pidiä	olis’ pidän	V;PST;PRF;COND;POS;3;SG
+pidiä	olizima pidän	V;PST;PRF;COND;POS;1;PL
+pidiä	olizija pidän	V;PST;PRF;COND;POS;2;PL
+pidiä	olis’ pietty	V;PST;PRF;COND;POS;3;PL
+pidiä	en olis’ pidän	V;PST;PRF;COND;NEG;1;SG
+pidiä	et olis’ pidän	V;PST;PRF;COND;NEG;2;SG
+pidiä	ei olis’ pidän	V;PST;PRF;COND;NEG;3;SG
+pidiä	emmä olis’ pidän	V;PST;PRF;COND;NEG;1;PL
+pidiä	että olis’ pidän	V;PST;PRF;COND;NEG;2;PL
+pidiä	ei olis’ pietty	V;PST;PRF;COND;NEG;3;PL
+pidiä	pidännen	V;PRS;POT;POS;1;SG
+pidiä	pidännet	V;PRS;POT;POS;2;SG
+pidiä	pidännöy	V;PRS;POT;POS;3;SG
+pidiä	pidännemmä	V;PRS;POT;POS;1;PL
+pidiä	pidännettä	V;PRS;POT;POS;2;PL
+pidiä	piettänneh	V;PRS;POT;POS;3;PL
+pidiä	en pidänne	V;PRS;POT;NEG;1;SG
+pidiä	et pidänne	V;PRS;POT;NEG;2;SG
+pidiä	ei pidänne	V;PRS;POT;NEG;3;SG
+pidiä	emmä pidänne	V;PRS;POT;NEG;1;PL
+pidiä	että pidänne	V;PRS;POT;NEG;2;PL
+pidiä	ei piettänne	V;PRS;POT;NEG;3;PL
+pidiä	lienen pidän	V;PRS;PRF;POT;POS;1;SG
+pidiä	lienet pidän	V;PRS;PRF;POT;POS;2;SG
+pidiä	lienöy pidän	V;PRS;PRF;POT;POS;3;SG
+pidiä	lienemmä pidän	V;PRS;PRF;POT;POS;1;PL
+pidiä	lienettä pidän	V;PRS;PRF;POT;POS;2;PL
+pidiä	lienöy pietty	V;PRS;PRF;POT;POS;3;PL
+pidiä	en liene pidän	V;PRS;PRF;POT;NEG;1;SG
+pidiä	et liene pidän	V;PRS;PRF;POT;NEG;2;SG
+pidiä	ei liene pidän	V;PRS;PRF;POT;NEG;3;SG
+pidiä	emmä liene pidän	V;PRS;PRF;POT;NEG;1;PL
+pidiä	että liene pidän	V;PRS;PRF;POT;NEG;2;PL
+pidiä	ei liene pietty	V;PRS;PRF;POT;NEG;3;PL
+pidiä	pidäjä	V.PTCP;PRS;ACT
+pidiä	pidän	V.PTCP;PST;ACT;PRS;PRF
+pidiä	piettävä	V.PTCP;PRS;PASS
+pidiä	pietty	V.PTCP;PST;PASS
+pidiä	pidännyn	V.PTCP;PST;ACT
+pieni	pienen	ADJ;GEN;SG
+pieni	pieni	ADJ;NOM;SG
+pieni	pieneh	ADJ;IN+ALL;SG
+pieni	pienellä	ADJ;AT+ESS+ALL;SG
+pieni	pienettä	ADJ;PRIV ;SG
+pieni	pienet	ADJ;NOM;PL
+pieni	pienie	ADJ;PRT;PL
+pieni	pieniksi	ADJ;TRANS;PL
+pieni	pienissä	ADJ;IN+ESS;PL
+pieni	pienistä	ADJ;IN+ABL;PL
+pieni	pienih	ADJ;IN+ALL;PL
+pieni	pienillä	ADJ;AT+ESS+ALL;PL
+pieni	pienittä	ADJ;PRIV ;PL
+pieni	piendä	ADJ;PRT;SG
+pieni	pienenä	ADJ;FRML;SG
+pieni	pieneksi	ADJ;TRANS;SG
+pieni	pienessä	ADJ;IN+ESS;SG
+pieni	pienestä	ADJ;IN+ABL;SG
+pieni	pieneldä	ADJ;AT+ABL;SG
+pieni	pienenke	ADJ;COM;SG
+pieni	pienečči	ADJ;PROL;SG
+pieni	pienin	ADJ;GEN;PL
+pieni	pienin	ADJ;INS;PL
+pieni	pieninä	ADJ;FRML;PL
+pieni	pienildä	ADJ;AT+ABL;PL
+pieni	pieninke	ADJ;COM;PL
+pieni	pieničči	ADJ;PROL;PL
+tulla	tulin	V;PST;IPFV;IND;POS;1;SG
+tulla	tulit	V;PST;IPFV;IND;POS;2;SG
+tulla	tulet	V;PRS;IND;POS;2;SG
+tulla	tule	V;IMP;POS;2;SG
+tulla	tulen	V;PRS;IND;POS;1;SG
+tulla	tuli	V;PST;IPFV;IND;POS;3;SG
+tulla	tulou	V;PRS;IND;POS;3;SG
+tulla	tullah	V;PRS;IND;POS;3;PL
+tulla	tulla	V;NFIN
+tulla	tuldu	V.PTCP;PST;PASS
+tulla	tulemma	V;PRS;IND;POS;1;PL
+tulla	tuletta	V;PRS;IND;POS;2;PL
+tulla	en tule	V;PRS;IND;NEG;1;SG
+tulla	et tule	V;PRS;IND;NEG;2;SG
+tulla	ei tule	V;PRS;IND;NEG;3;SG
+tulla	emmä tule	V;PRS;IND;NEG;1;PL
+tulla	että tule	V;PRS;IND;NEG;2;PL
+tulla	ei tulla	V;PRS;IND;NEG;3;PL
+tulla	tulima	V;PST;IPFV;IND;POS;1;PL
+tulla	tulija	V;PST;IPFV;IND;POS;2;PL
+tulla	tulija	V.PTCP;PRS;ACT
+tulla	tuldih	V;PST;IPFV;IND;POS;3;PL
+tulla	en tullun	V;PST;IPFV;IND;NEG;1;SG
+tulla	et tullun	V;PST;IPFV;IND;NEG;2;SG
+tulla	ei tullun	V;PST;IPFV;IND;NEG;3;SG
+tulla	emmä tullun	V;PST;IPFV;IND;NEG;1;PL
+tulla	että tullun	V;PST;IPFV;IND;NEG;2;PL
+tulla	ei tuldu	V;PST;IPFV;IND;NEG;3;PL
+tulla	olen tullun	V;PRS;PRF;IND;POS;1;SG
+tulla	olet tullun	V;PRS;PRF;IND;POS;2;SG
+tulla	on tullun	V;PRS;PRF;IND;POS;3;SG
+tulla	olemma tullun	V;PRS;PRF;IND;POS;1;PL
+tulla	oletta tullun	V;PRS;PRF;IND;POS;2;PL
+tulla	ollah tuldu	V;PRS;PRF;IND;POS;3;PL
+tulla	en ole tullun	V;PRS;PRF;IND;NEG;1;SG
+tulla	et ole tullun	V;PRS;PRF;IND;NEG;2;SG
+tulla	ei ole tullun	V;PRS;PRF;IND;NEG;3;SG
+tulla	emmä ole tullun	V;PRS;PRF;IND;NEG;1;PL
+tulla	että ole tullun	V;PRS;PRF;IND;NEG;2;PL
+tulla	ei ole tuldu	V;PRS;PRF;IND;NEG;3;PL
+tulla	olin tullun	V;PST;PRF;IND;POS;1;SG
+tulla	olit tullun	V;PST;PRF;IND;POS;2;SG
+tulla	oli tullun	V;PST;PRF;IND;POS;3;SG
+tulla	olima tullun	V;PST;PRF;IND;POS;1;PL
+tulla	olija tullun	V;PST;PRF;IND;POS;2;PL
+tulla	oldih tuldu	V;PST;PRF;IND;POS;3;PL
+tulla	en ollun tullun	V;PST;PRF;IND;NEG;1;SG
+tulla	ei oldu tuldu	V;PST;PRF;IND;NEG;3;PL
+tulla	tulgah	V;IMP;POS;3;SG
+tulla	tulgah	V;IMP;POS;3;PL
+tulla	tulgua	V;IMP;POS;2;PL
+tulla	elä tule	V;IMP;NEG;2;SG
+tulla	elgäh tulgah	V;IMP;NEG;3;SG
+tulla	elgäh tulgah	V;IMP;NEG;3;PL
+tulla	elgiä tulgua	V;IMP;NEG;2;PL
+tulla	tulizin	V;PST;IPFV;COND;POS;1;SG
+tulla	tulizit	V;PST;IPFV;COND;POS;2;SG
+tulla	tulizima	V;PST;IPFV;COND;POS;1;PL
+tulla	tulizija	V;PST;IPFV;COND;POS;2;PL
+tulla	olizin tullun	V;PST;PRF;COND;POS;1;SG
+tulla	olizit tullun	V;PST;PRF;COND;POS;2;SG
+tulla	olizima tullun	V;PST;PRF;COND;POS;1;PL
+tulla	olizija tullun	V;PST;PRF;COND;POS;2;PL
+tulla	tullen	V;PRS;POT;POS;1;SG
+tulla	tullet	V;PRS;POT;POS;2;SG
+tulla	tullou	V;PRS;POT;POS;3;SG
+tulla	tullemma	V;PRS;POT;POS;1;PL
+tulla	tulletta	V;PRS;POT;POS;2;PL
+tulla	tullun	V.PTCP;PST;ACT
+tulla	tullun	V.PTCP;PST;ACT;PRS;PRF
+tulla	tuldava	V.PTCP;PRS;PASS
+tulla	en tulle	V;PRS;POT;NEG;1;SG
+tulla	et tulle	V;PRS;POT;NEG;2;SG
+tulla	ei tulle	V;PRS;POT;NEG;3;SG
+tulla	emmä tulle	V;PRS;POT;NEG;1;PL
+tulla	että tulle	V;PRS;POT;NEG;2;PL
+tulla	ei tuldanne	V;PRS;POT;NEG;3;PL
+tulla	lienen tullun	V;PRS;PRF;POT;POS;1;SG
+tulla	lienet tullun	V;PRS;PRF;POT;POS;2;SG
+tulla	lienöy tullun	V;PRS;PRF;POT;POS;3;SG
+tulla	lienemmä tullun	V;PRS;PRF;POT;POS;1;PL
+tulla	lienettä tullun	V;PRS;PRF;POT;POS;2;PL
+tulla	lienöy tuldu	V;PRS;PRF;POT;POS;3;PL
+tulla	en liene tullun	V;PRS;PRF;POT;NEG;1;SG
+tulla	et liene tullun	V;PRS;PRF;POT;NEG;2;SG
+tulla	ei liene tullun	V;PRS;PRF;POT;NEG;3;SG
+tulla	emmä liene tullun	V;PRS;PRF;POT;NEG;1;PL
+tulla	että liene tullun	V;PRS;PRF;POT;NEG;2;PL
+tulla	ei liene tuldu	V;PRS;PRF;POT;NEG;3;PL
+tulla	et ollun tullun	V;PST;PRF;IND;NEG;2;SG
+tulla	ei ollun tullun	V;PST;PRF;IND;NEG;3;SG
+tulla	emmä ollun tullun	V;PST;PRF;IND;NEG;1;PL
+tulla	että ollun tullun	V;PST;PRF;IND;NEG;2;PL
+tulla	tuldanneh	V;PRS;POT;POS;3;PL
+tulla	tulis’	V;PST;IPFV;COND;POS;3;SG
+tulla	tuldais’	V;PST;IPFV;COND;POS;3;PL
+tulla	en tulis’	V;PST;IPFV;COND;NEG;1;SG
+tulla	et tulis’	V;PST;IPFV;COND;NEG;2;SG
+tulla	ei tulis’	V;PST;IPFV;COND;NEG;3;SG
+tulla	emmä tulis’	V;PST;IPFV;COND;NEG;1;PL
+tulla	että tulis’	V;PST;IPFV;COND;NEG;2;PL
+tulla	ei tuldais’	V;PST;IPFV;COND;NEG;3;PL
+tulla	olis’ tullun	V;PST;PRF;COND;POS;3;SG
+tulla	olis’ tuldu	V;PST;PRF;COND;POS;3;PL
+tulla	en olis’ tullun	V;PST;PRF;COND;NEG;1;SG
+tulla	et olis’ tullun	V;PST;PRF;COND;NEG;2;SG
+tulla	ei olis’ tullun	V;PST;PRF;COND;NEG;3;SG
+tulla	emmä olis’ tullun	V;PST;PRF;COND;NEG;1;PL
+tulla	että olis’ tullun	V;PST;PRF;COND;NEG;2;PL
+tulla	ei olis’ tuldu	V;PST;PRF;COND;NEG;3;PL
+työ	työ	PRO;NOM;PL
+työ	tiät	PRO;ACC;PL
+työ	tiän	PRO;GEN;PL
+työ	teidä	PRO;PRT;PL
+työ	teiksi	PRO;TRANS;PL
+työ	teissä	PRO;IN+ESS;PL
+työ	teistä	PRO;IN+ABL;PL
+työ	teih	PRO;IN+ALL;PL
+työ	teilä	PRO;AT+ESS+ALL;PL
+työ	teildä	PRO;AT+ABL;PL
+työ	teittä	PRO;PRIV ;PL
+työ	teinke	PRO;COM;PL
+työ	teinä	PRO;FRML;PL
+šanuo	šanon	V;PRS;IND;POS;1;SG
+šanuo	šanon	V.PTCP;PST;ACT;PRS;PRF
+šanuo	šanot	V;PRS;IND;POS;2;SG
+šanuo	šanou	V;PRS;IND;POS;3;SG
+šanuo	šanomma	V;PRS;IND;POS;1;PL
+šanuo	šanotta	V;PRS;IND;POS;2;PL
+šanuo	šanotah	V;PRS;IND;POS;3;PL
+šanuo	en šano	V;PRS;IND;NEG;1;SG
+šanuo	et šano	V;PRS;IND;NEG;2;SG
+šanuo	ei šano	V;PRS;IND;NEG;3;SG
+šanuo	emmä šano	V;PRS;IND;NEG;1;PL
+šanuo	että šano	V;PRS;IND;NEG;2;PL
+šanuo	ei šanota	V;PRS;IND;NEG;3;PL
+šanuo	šanoin	V;PST;IPFV;IND;POS;1;SG
+šanuo	šanoit	V;PST;IPFV;IND;POS;2;SG
+šanuo	šano	V;PST;IPFV;IND;POS;3;SG
+šanuo	šano	V;IMP;POS;2;SG
+šanuo	šanoma	V;PST;IPFV;IND;POS;1;PL
+šanuo	šanoja	V;PST;IPFV;IND;POS;2;PL
+šanuo	šanoja	V.PTCP;PRS;ACT
+šanuo	šanottih	V;PST;IPFV;IND;POS;3;PL
+šanuo	en šanon	V;PST;IPFV;IND;NEG;1;SG
+šanuo	et šanon	V;PST;IPFV;IND;NEG;2;SG
+šanuo	ei šanon	V;PST;IPFV;IND;NEG;3;SG
+šanuo	emmä šanon	V;PST;IPFV;IND;NEG;1;PL
+šanuo	että šanon	V;PST;IPFV;IND;NEG;2;PL
+šanuo	ei šanottu	V;PST;IPFV;IND;NEG;3;PL
+šanuo	olen šanon	V;PRS;PRF;IND;POS;1;SG
+šanuo	olet šanon	V;PRS;PRF;IND;POS;2;SG
+šanuo	on šanon	V;PRS;PRF;IND;POS;3;SG
+šanuo	olemma šanon	V;PRS;PRF;IND;POS;1;PL
+šanuo	oletta šanon	V;PRS;PRF;IND;POS;2;PL
+šanuo	ollah šanottu	V;PRS;PRF;IND;POS;3;PL
+šanuo	en ole šanon	V;PRS;PRF;IND;NEG;1;SG
+šanuo	et ole šanon	V;PRS;PRF;IND;NEG;2;SG
+šanuo	ei ole šanon	V;PRS;PRF;IND;NEG;3;SG
+šanuo	emmä ole šanon	V;PRS;PRF;IND;NEG;1;PL
+šanuo	että ole šanon	V;PRS;PRF;IND;NEG;2;PL
+šanuo	ei ole šanottu	V;PRS;PRF;IND;NEG;3;PL
+šanuo	olin šanon	V;PST;PRF;IND;POS;1;SG
+šanuo	olit šanon	V;PST;PRF;IND;POS;2;SG
+šanuo	oli šanon	V;PST;PRF;IND;POS;3;SG
+šanuo	olima šanon	V;PST;PRF;IND;POS;1;PL
+šanuo	olija šanon	V;PST;PRF;IND;POS;2;PL
+šanuo	oldih šanottu	V;PST;PRF;IND;POS;3;PL
+šanuo	en ollun šanon	V;PST;PRF;IND;NEG;1;SG
+šanuo	et ollun šanon	V;PST;PRF;IND;NEG;2;SG
+šanuo	ei ollun šanon	V;PST;PRF;IND;NEG;3;SG
+šanuo	emmä ollun šanon	V;PST;PRF;IND;NEG;1;PL
+šanuo	että ollun šanon	V;PST;PRF;IND;NEG;2;PL
+šanuo	ei oldu šanottu	V;PST;PRF;IND;NEG;3;PL
+šanuo	šanokkah	V;IMP;POS;3;SG
+šanuo	šanokkah	V;IMP;POS;3;PL
+šanuo	šanokkua	V;IMP;POS;2;PL
+šanuo	elä šano	V;IMP;NEG;2;SG
+šanuo	elgäh šanokkah	V;IMP;NEG;3;SG
+šanuo	elgäh šanokkah	V;IMP;NEG;3;PL
+šanuo	elgiä šanokkua	V;IMP;NEG;2;PL
+šanuo	šanozin	V;PST;IPFV;COND;POS;1;SG
+šanuo	šanozit	V;PST;IPFV;COND;POS;2;SG
+šanuo	šanois’	V;PST;IPFV;COND;POS;3;SG
+šanuo	šanozima	V;PST;IPFV;COND;POS;1;PL
+šanuo	šanozija	V;PST;IPFV;COND;POS;2;PL
+šanuo	šanottais’	V;PST;IPFV;COND;POS;3;PL
+šanuo	en šanois’	V;PST;IPFV;COND;NEG;1;SG
+šanuo	et šanois’	V;PST;IPFV;COND;NEG;2;SG
+šanuo	ei šanois’	V;PST;IPFV;COND;NEG;3;SG
+šanuo	emmä šanois’	V;PST;IPFV;COND;NEG;1;PL
+šanuo	että šanois’	V;PST;IPFV;COND;NEG;2;PL
+šanuo	ei šanottais’	V;PST;IPFV;COND;NEG;3;PL
+šanuo	olizin šanon	V;PST;PRF;COND;POS;1;SG
+šanuo	olizit šanon	V;PST;PRF;COND;POS;2;SG
+šanuo	olis’ šanon	V;PST;PRF;COND;POS;3;SG
+šanuo	olizima šanon	V;PST;PRF;COND;POS;1;PL
+šanuo	olizija šanon	V;PST;PRF;COND;POS;2;PL
+šanuo	olis’ šanottu	V;PST;PRF;COND;POS;3;PL
+šanuo	en olis’ šanon	V;PST;PRF;COND;NEG;1;SG
+šanuo	et olis’ šanon	V;PST;PRF;COND;NEG;2;SG
+šanuo	ei olis’ šanon	V;PST;PRF;COND;NEG;3;SG
+šanuo	emmä olis’ šanon	V;PST;PRF;COND;NEG;1;PL
+šanuo	että olis’ šanon	V;PST;PRF;COND;NEG;2;PL
+šanuo	ei olis’ šanottu	V;PST;PRF;COND;NEG;3;PL
+šanuo	šanonnen	V;PRS;POT;POS;1;SG
+šanuo	šanonnet	V;PRS;POT;POS;2;SG
+šanuo	šanonnou	V;PRS;POT;POS;3;SG
+šanuo	šanonnemma	V;PRS;POT;POS;1;PL
+šanuo	šanonnetta	V;PRS;POT;POS;2;PL
+šanuo	šanottanneh	V;PRS;POT;POS;3;PL
+šanuo	en šanonne	V;PRS;POT;NEG;1;SG
+šanuo	et šanonne	V;PRS;POT;NEG;2;SG
+šanuo	ei šanonne	V;PRS;POT;NEG;3;SG
+šanuo	emmä šanonne	V;PRS;POT;NEG;1;PL
+šanuo	että šanonne	V;PRS;POT;NEG;2;PL
+šanuo	ei šanottanne	V;PRS;POT;NEG;3;PL
+šanuo	lienen šanon	V;PRS;PRF;POT;POS;1;SG
+šanuo	lienet šanon	V;PRS;PRF;POT;POS;2;SG
+šanuo	lienöy šanon	V;PRS;PRF;POT;POS;3;SG
+šanuo	lienemmä šanon	V;PRS;PRF;POT;POS;1;PL
+šanuo	lienettä šanon	V;PRS;PRF;POT;POS;2;PL
+šanuo	lienöy šanottu	V;PRS;PRF;POT;POS;3;PL
+šanuo	en liene šanon	V;PRS;PRF;POT;NEG;1;SG
+šanuo	et liene šanon	V;PRS;PRF;POT;NEG;2;SG
+šanuo	ei liene šanon	V;PRS;PRF;POT;NEG;3;SG
+šanuo	emmä liene šanon	V;PRS;PRF;POT;NEG;1;PL
+šanuo	että liene šanon	V;PRS;PRF;POT;NEG;2;PL
+šanuo	ei liene šanottu	V;PRS;PRF;POT;NEG;3;PL
+šanuo	šanuo	V;NFIN
+šanuo	šanonnun	V.PTCP;PST;ACT
+šanuo	šanottava	V.PTCP;PRS;PASS
+šanuo	šanottu	V.PTCP;PST;PASS
+šie	šie	PRO;NOM;SG
+šie	šiut	PRO;ACC;SG
+šie	šiun	PRO;GEN;SG
+šie	šilma	PRO;PRT;SG
+šie	šiukši	PRO;TRANS;SG
+šie	šiušša	PRO;IN+ESS;SG
+šie	šiušta	PRO;IN+ABL;SG
+šie	šiuh	PRO;IN+ALL;SG
+šie	šiula	PRO;AT+ESS+ALL;SG
+šie	šiulda	PRO;AT+ABL;SG
+šie	šiutta	PRO;PRIV ;SG
+šie	šiunke	PRO;COM;SG
+šie	šiuna	PRO;FRML;SG

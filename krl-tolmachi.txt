@@ -1,0 +1,128 @@
+# Karelian Proper: Tolmachi
+aštuo	aššun	V;PRS;IND;POS;1;SG
+aštuo	aššu	V;IMP;POS;2;SG
+aštuo	aššut	V;PRS;IND;POS;2;SG
+aštuo	aštuu	V;PRS;IND;POS;3;SG
+aštuo	aššumma	V;PRS;IND;POS;1;PL
+aštuo	aššutta	V;PRS;IND;POS;2;PL
+aštuo	aššutah	V;PRS;IND;POS;3;PL
+aštuo	en aššu	V;PRS;IND;NEG;1;SG
+aštuo	ei aššu	V;PRS;IND;NEG;3;SG
+aštuo	emmä aššu	V;PRS;IND;NEG;1;PL
+aštuo	että aššu	V;PRS;IND;NEG;2;PL
+aštuo	ei aššuta	V;PRS;IND;NEG;3;PL
+aštuo	aššuin	V;PST;IPFV;IND;POS;1;SG
+aštuo	aššuit	V;PST;IPFV;IND;POS;2;SG
+aštuo	aštu	V;PST;IPFV;IND;POS;3;SG
+aštuo	aštuma	V;PST;IPFV;IND;POS;1;PL
+aštuo	aštuja	V;PST;IPFV;IND;POS;2;PL
+aštuo	aštuja	V.PTCP;PRS;ACT
+aštuo	aššuttih	V;PST;IPFV;IND;POS;3;PL
+aštuo	en aštun	V;PST;IPFV;IND;NEG;1;SG
+aštuo	et aštun	V;PST;IPFV;IND;NEG;2;SG
+aštuo	ei aštun	V;PST;IPFV;IND;NEG;3;SG
+aštuo	emmä aštun	V;PST;IPFV;IND;NEG;1;PL
+aštuo	että aštun	V;PST;IPFV;IND;NEG;2;PL
+aštuo	ei aššuttu	V;PST;IPFV;IND;NEG;3;PL
+aštuo	olen aštun	V;PRS;PRF;IND;POS;1;SG
+aštuo	olet aštun	V;PRS;PRF;IND;POS;2;SG
+aštuo	on aštun	V;PRS;PRF;IND;POS;3;SG
+aštuo	olemma aštun	V;PRS;PRF;IND;POS;1;PL
+aštuo	oletta aštun	V;PRS;PRF;IND;POS;2;PL
+aštuo	on aššuttu	V;PRS;PRF;IND;POS;3;PL
+aštuo	en ole aštun	V;PRS;PRF;IND;NEG;1;SG
+aštuo	et ole aštun	V;PRS;PRF;IND;NEG;2;SG
+aštuo	ei ole aštun	V;PRS;PRF;IND;NEG;3;SG
+aštuo	emmä ole aštun	V;PRS;PRF;IND;NEG;1;PL
+aštuo	että ole aštun	V;PRS;PRF;IND;NEG;2;PL
+aštuo	ei ole aššuttu	V;PRS;PRF;IND;NEG;3;PL
+aštuo	olin aštun	V;PST;PRF;IND;POS;1;SG
+aštuo	olit aštun	V;PST;PRF;IND;POS;2;SG
+aštuo	oli aštun	V;PST;PRF;IND;POS;3;SG
+aštuo	olima aštun	V;PST;PRF;IND;POS;1;PL
+aštuo	olija aštun	V;PST;PRF;IND;POS;2;PL
+aštuo	oli aššuttu	V;PST;PRF;IND;POS;3;PL
+aštuo	et ollun aštun	V;PST;PRF;IND;NEG;2;SG
+aštuo	ei ollun aštun	V;PST;PRF;IND;NEG;3;SG
+aštuo	emmä ollun aštun	V;PST;PRF;IND;NEG;1;PL
+aštuo	ei oltu aššuttu	V;PST;PRF;IND;NEG;3;PL
+aštuo	aštukkah	V;IMP;POS;3;SG
+aštuo	aštukkah	V;IMP;POS;3;PL
+aštuo	aštukka	V;IMP;POS;1;PL
+aštuo	aštukkua	V;IMP;POS;2;PL
+aštuo	elä aššu	V;IMP;NEG;2;SG
+aštuo	elgäh aštukkah	V;IMP;NEG;3;SG
+aštuo	elgäh aštukkah	V;IMP;NEG;3;PL
+aštuo	elkä aštukka	V;IMP;NEG;1;PL
+aštuo	aštuo	V;NFIN
+aštuo	aššuttava	V.PTCP;PRS;PASS
+aštuo	aššuttu	V.PTCP;PST;PASS
+aštuo	en ollun aštun	V;PST;PRF;IND;NEG;1;SG
+aštuo	että ollun aštun	V;PST;PRF;IND;NEG;2;PL
+aštuo	elgyä aštukkua	V;IMP;NEG;2;PL
+aštuo	aštuzin	V;PST;IPFV;COND;POS;1;SG
+aštuo	aštuzit	V;PST;IPFV;COND;POS;2;SG
+aštuo	aštuisʼ	V;PST;IPFV;COND;POS;3;SG
+aštuo	aštuzima	V;PST;IPFV;COND;POS;1;PL
+aštuo	aštuzija	V;PST;IPFV;COND;POS;2;PL
+aštuo	aššuttaisʼ	V;PST;IPFV;COND;POS;3;PL
+aštuo	en aštuisʼ	V;PST;IPFV;COND;NEG;1;SG
+aštuo	et aštuisʼ	V;PST;IPFV;COND;NEG;2;SG
+aštuo	ei aštuisʼ	V;PST;IPFV;COND;NEG;3;SG
+aštuo	emmä aštuisʼ	V;PST;IPFV;COND;NEG;1;PL
+aštuo	että aštuisʼ	V;PST;IPFV;COND;NEG;2;PL
+aštuo	ei aššuttaisʼ	V;PST;IPFV;COND;NEG;3;PL
+aštuo	olizin aštun	V;PST;PRF;COND;POS;1;SG
+aštuo	olizit aštun	V;PST;PRF;COND;POS;2;SG
+aštuo	olisʼ aštun	V;PST;PRF;COND;POS;3;SG
+aštuo	olizima aštun	V;PST;PRF;COND;POS;1;PL
+aštuo	olizija aštun	V;PST;PRF;COND;POS;2;PL
+aštuo	olisʼ aššuttu	V;PST;PRF;COND;POS;3;PL
+aštuo	en olisʼ aštun	V;PST;PRF;COND;NEG;1;SG
+aštuo	et olisʼ aštun	V;PST;PRF;COND;NEG;2;SG
+aštuo	ei olisʼ aštun	V;PST;PRF;COND;NEG;3;SG
+aštuo	emmä olisʼ aštun	V;PST;PRF;COND;NEG;1;PL
+aštuo	että olisʼ aštun	V;PST;PRF;COND;NEG;2;PL
+aštuo	ei olisʼ aššuttu	V;PST;PRF;COND;NEG;3;PL
+aštuo	aštunnen	V;PRS;POT;POS;1;SG
+aštuo	aštunnet	V;PRS;POT;POS;2;SG
+aštuo	aštunnou	V;PRS;POT;POS;3;SG
+aštuo	aštunnemma	V;PRS;POT;POS;1;PL
+aštuo	aštunnetta	V;PRS;POT;POS;2;PL
+aštuo	aššutanneh	V;PRS;POT;POS;3;PL
+aštuo	en aštunne	V;PRS;POT;NEG;1;SG
+aštuo	et aštunne	V;PRS;POT;NEG;2;SG
+aštuo	ei aštunne	V;PRS;POT;NEG;3;SG
+aštuo	emmä aštunne	V;PRS;POT;NEG;1;PL
+aštuo	että aštunne	V;PRS;POT;NEG;2;PL
+aštuo	ei aššutanne	V;PRS;POT;NEG;3;PL
+aštuo	aštunnun	V.PTCP;PST;ACT
+meččä	mečän	N;GEN;SG
+meččä	mečän	N;ACC;SG
+meččä	meččäh	N;IN+ALL;SG
+meččä	mečänke	N;COM;SG
+meččä	meččih	N;IN+ALL;PL
+meččä	meččä	N;NOM;SG
+meččä	mečäkši	N;TRANS;SG
+meččä	mečättä	N;PRIV ;SG
+meččä	meččänä	N;FRML;SG
+meččä	mečäššä	N;IN+ESS;SG
+meččä	mečäštä	N;IN+ABL;SG
+meččä	mečällä	N;AT+ESS+ALL;SG
+meččä	mečät	N;NOM;PL
+meččä	mečät	N;ACC;PL
+meččä	meččie	N;PRT;PL
+meččä	mečiksi	N;TRANS;PL
+meččä	mečittä	N;PRIV ;PL
+meččä	meččinä	N;FRML;PL
+meččä	mečissä	N;IN+ESS;PL
+meččä	mečistä	N;IN+ABL;PL
+meččä	mečillä	N;AT+ESS+ALL;PL
+meččä	mečičči	N;PROL;PL
+meččä	meččiä	N;PRT;SG
+meččä	mečäldä	N;AT+ABL;SG
+meččä	mečäčči	N;PROL;SG
+meččä	meččiin	N;GEN;PL
+meččä	mečildä	N;AT+ABL;PL
+meččä	mečinke	N;COM;PL
+meččä	mečiin	N;INS;PL
