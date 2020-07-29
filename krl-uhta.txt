@@ -31,9 +31,7 @@ aštuo	on aštun	V;PRS;PRF;IND;POS;3;SG
 aštuo	olemma aštun	V;PRS;PRF;IND;POS;1;PL
 aštuo	oletta aštun	V;PRS;PRF;IND;POS;2;PL
 aštuo	on aššuttu	V;PRS;PRF;IND;POS;3;PL
-aštuo	en ole aštun	V;PRS;PRF;IND;NEG;1;SG
 aštuo	et ole aštun	V;PRS;PRF;IND;NEG;2;SG
-aštuo	ei ole aštun	V;PRS;PRF;IND;NEG;3;SG
 aštuo	emmä ole aštun	V;PRS;PRF;IND;NEG;1;PL
 aštuo	että ole aštun	V;PRS;PRF;IND;NEG;2;PL
 aštuo	ei ole aššuttu	V;PRS;PRF;IND;NEG;3;PL
@@ -111,6 +109,8 @@ aštuo	aštunut	V.PTCP;PST;ACT
 aštuo	aššuttava	V.PTCP;PRS;PASS
 aštuo	aššuttu	V.PTCP;PST;PASS
 aštuo	aštun	V.PTCP;PST;ACT;PRS;PRF
+aštuo	en ole’	V;PRS;PRF;IND;NEG;1;SG
+aštuo	ei ole’	V;PRS;PRF;IND;NEG;3;SG
 meččä	mečän	N;GEN;SG
 meččä	mečän	N;ACC;SG
 meččä	meččäh	N;IN+ALL;SG
@@ -138,4 +138,5 @@ meččä	mečillä	N;AT+ESS+ALL;PL
 meččä	mečiltä	N;AT+ABL;PL
 meččä	meččinʼeh	N;COM;PL
 meččä	mečičči	N;PROL;PL
+še	šiitä	PRO;IN+ABL;SG
 šuuri	šuuret	ADJ;NOM;PL

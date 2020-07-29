@@ -11,6 +11,19 @@ Ahti	Ahtih	PROPN;IN+ALL;SG
 Ahti	Ahilla	PROPN;AT+ESS+ALL;SG
 Ahti	Ahilta	PROPN;AT+ABL;SG
 Ahti	Ahtiloin’eh	PROPN;COM;SG
+Anna	Anna	PROPN;NOM;SG
+Anna	Annan	PROPN;GEN;SG
+Anna	Annana	PROPN;FRML;SG
+Anna	Annakši	PROPN;TRANS;SG
+Anna	Annašša	PROPN;IN+ESS;SG
+Anna	Annašta	PROPN;IN+ABL;SG
+Anna	Annah	PROPN;IN+ALL;SG
+Anna	Annalla	PROPN;AT+ESS+ALL;SG
+Anna	Annalda	PROPN;AT+ABL;SG
+Anna	Annatta	PROPN;PRIV ;SG
+Anna	Annanke	PROPN;COM;SG
+Anna	Annačči	PROPN;PROL;SG
+Anna	Annat	PROPN;NOM;PL
 Kalevala	Kalevala	PROPN;NOM;SG
 Kalevala	Kalevalan	PROPN;GEN;SG
 Kalevala	Kalevalan	PROPN;ACC;SG
@@ -40,6 +53,19 @@ Kalevala	Kalevaloilta	PROPN;AT+ABL;PL
 Kalevala	Kalevaloin’eh	PROPN;COM;PL
 Kalevala	Kalevaloičči	PROPN;PROL;PL
 Kalevala	Kalevalačči	PROPN;PROL;SG
+Karjala	Karjalan	PROPN;GEN;SG
+Karjala	Karjalua	PROPN;PRT;SG
+Karjala	Karjala	PROPN;NOM;SG
+Karjala	Karjalanke	PROPN;COM;SG
+Karjala	Karjalana	PROPN;FRML;SG
+Karjala	Karjalakši	PROPN;TRANS;SG
+Karjala	Karjalašša	PROPN;IN+ESS;SG
+Karjala	Karjalašta	PROPN;IN+ABL;SG
+Karjala	Karjalah	PROPN;IN+ALL;SG
+Karjala	Karjalalla	PROPN;AT+ESS+ALL;SG
+Karjala	Karjalalda	PROPN;AT+ABL;SG
+Karjala	Karjalatta	PROPN;PRIV ;SG
+Karjala	Karjalačči	PROPN;PROL;SG
 Venäjä	Venäjä	PROPN;NOM;SG
 Venäjä	Venäjän	PROPN;GEN;SG
 Venäjä	Venäjän	PROPN;ACC;SG
@@ -62,6 +88,7 @@ Venäjä	Venäjistä	PROPN;IN+ABL;PL
 Venäjä	Venäjih	PROPN;IN+ALL;PL
 Venäjä	Venäjillä	PROPN;AT+ESS+ALL;PL
 Venäjä	Venäjiltä	PROPN;AT+ABL;PL
+Vologda	Vologdan	PROPN;GEN;SG
 aapini	aapisen	N;GEN;SG
 aapini	aapista	N;PRT;SG
 aapini	aapini	N;NOM;SG
@@ -120,32 +147,170 @@ ativo	ativo	N;NOM;SG
 ativo	ativojen	N;GEN;PL
 ativo	ativoja	N;PRT;PL
 ativo	ativoičči	N;PROL;PL
+avual’l’a	avual’dih	V;PST;IPFV;IND;POS;3;PL
+avual’l’a	ei avual’du	V;PST;IPFV;IND;NEG;3;PL
+avual’l’a	ollah avual’du	V;PRS;PRF;IND;POS;3;PL
+avual’l’a	ei ole avual’du	V;PRS;PRF;IND;NEG;3;PL
+avual’l’a	ei oldu avual’du	V;PST;PRF;IND;NEG;3;PL
+avual’l’a	avual’dais’	V;PST;IPFV;COND;POS;3;PL
+avual’l’a	ei avual’dais’	V;PST;IPFV;COND;NEG;3;PL
+avual’l’a	olis’ avual’du	V;PST;PRF;COND;POS;3;PL
+avual’l’a	ei olis’ avual’du	V;PST;PRF;COND;NEG;3;PL
+avual’l’a	avual’danneh	V;PRS;POT;POS;3;PL
+avual’l’a	ei avual’danne	V;PRS;POT;NEG;3;PL
+avual’l’a	lienöy avual’du	V;PRS;PRF;POT;POS;3;PL
+avual’l’a	ei liene avual’du	V;PRS;PRF;POT;NEG;3;PL
+avual’l’a	avual’l’a	V;NFIN
+avual’l’a	avual’dava	V.PTCP;PRS;PASS
+avual’l’a	avual’du	V.PTCP;PST;PASS
+avual’l’a	avual’lun	V.PTCP;PST;ACT
+avual’l’a	avual’lun	V.PTCP;PST;ACT;PRS;PRF
+avual’l’a	en avual’lun	V;PST;IPFV;IND;NEG;1;SG
+avual’l’a	et avual’lun	V;PST;IPFV;IND;NEG;2;SG
+avual’l’a	ei avual’lun	V;PST;IPFV;IND;NEG;3;SG
+avual’l’a	emmä avual’lun	V;PST;IPFV;IND;NEG;1;PL
+avual’l’a	että avual’lun	V;PST;IPFV;IND;NEG;2;PL
+avual’l’a	olen avual’lun	V;PRS;PRF;IND;POS;1;SG
+avual’l’a	olet avual’lun	V;PRS;PRF;IND;POS;2;SG
+avual’l’a	on avual’lun	V;PRS;PRF;IND;POS;3;SG
+avual’l’a	olemma avual’lun	V;PRS;PRF;IND;POS;1;PL
+avual’l’a	oletta avual’lun	V;PRS;PRF;IND;POS;2;PL
+avual’l’a	en ole avual’lun	V;PRS;PRF;IND;NEG;1;SG
+avual’l’a	et ole avual’lun	V;PRS;PRF;IND;NEG;2;SG
+avual’l’a	ei ole avual’lun	V;PRS;PRF;IND;NEG;3;SG
+avual’l’a	emmä ole avual’lun	V;PRS;PRF;IND;NEG;1;PL
+avual’l’a	että ole avual’lun	V;PRS;PRF;IND;NEG;2;PL
+avual’l’a	olin avual’lun	V;PST;PRF;IND;POS;1;SG
+avual’l’a	olit avual’lun	V;PST;PRF;IND;POS;2;SG
+avual’l’a	oli avual’lun	V;PST;PRF;IND;POS;3;SG
+avual’l’a	olima avual’lun	V;PST;PRF;IND;POS;1;PL
+avual’l’a	olija avual’lun	V;PST;PRF;IND;POS;2;PL
+avual’l’a	en ollun avual’lun	V;PST;PRF;IND;NEG;1;SG
+avual’l’a	et ollun avual’lun	V;PST;PRF;IND;NEG;2;SG
+avual’l’a	ei ollun avual’lun	V;PST;PRF;IND;NEG;3;SG
+avual’l’a	emmä ollun avual’lun	V;PST;PRF;IND;NEG;1;PL
+avual’l’a	että ollun avual’lun	V;PST;PRF;IND;NEG;2;PL
+avual’l’a	olizin avual’lun	V;PST;PRF;COND;POS;1;SG
+avual’l’a	olizit avual’lun	V;PST;PRF;COND;POS;2;SG
+avual’l’a	olis’ avual’lun	V;PST;PRF;COND;POS;3;SG
+avual’l’a	olizima avual’lun	V;PST;PRF;COND;POS;1;PL
+avual’l’a	olizija avual’lun	V;PST;PRF;COND;POS;2;PL
+avual’l’a	en olis’ avual’lun	V;PST;PRF;COND;NEG;1;SG
+avual’l’a	et olis’ avual’lun	V;PST;PRF;COND;NEG;2;SG
+avual’l’a	ei olis’ avual’lun	V;PST;PRF;COND;NEG;3;SG
+avual’l’a	emmä olis’ avual’lun	V;PST;PRF;COND;NEG;1;PL
+avual’l’a	että olis’ avual’lun	V;PST;PRF;COND;NEG;2;PL
+avual’l’a	lienen avual’lun	V;PRS;PRF;POT;POS;1;SG
+avual’l’a	lienet avual’lun	V;PRS;PRF;POT;POS;2;SG
+avual’l’a	lienöy avual’lun	V;PRS;PRF;POT;POS;3;SG
+avual’l’a	lienemmä avual’lun	V;PRS;PRF;POT;POS;1;PL
+avual’l’a	lienettä avual’lun	V;PRS;PRF;POT;POS;2;PL
+avual’l’a	en liene avual’lun	V;PRS;PRF;POT;NEG;1;SG
+avual’l’a	et liene avual’lun	V;PRS;PRF;POT;NEG;2;SG
+avual’l’a	ei liene avual’lun	V;PRS;PRF;POT;NEG;3;SG
+avual’l’a	emmä liene avual’lun	V;PRS;PRF;POT;NEG;1;PL
+avual’l’a	että liene avual’lun	V;PRS;PRF;POT;NEG;2;PL
+avual’l’a	avual’len	V;PRS;POT;POS;1;SG
+avual’l’a	avual’let	V;PRS;POT;POS;2;SG
+avual’l’a	avual’lou	V;PRS;POT;POS;3;SG
+avual’l’a	avual’lemma	V;PRS;POT;POS;1;PL
+avual’l’a	avual’letta	V;PRS;POT;POS;2;PL
+avual’l’a	en avual’le	V;PRS;POT;NEG;1;SG
+avual’l’a	et avual’le	V;PRS;POT;NEG;2;SG
+avual’l’a	ei avual’le	V;PRS;POT;NEG;3;SG
+avual’l’a	emmä avual’le	V;PRS;POT;NEG;1;PL
+avual’l’a	että avual’le	V;PRS;POT;NEG;2;PL
+avual’l’a	avual’gah	V;IMP;POS;3;SG
+avual’l’a	avual’gah	V;IMP;POS;3;PL
+avual’l’a	avual’gua	V;IMP;POS;2;PL
+avual’l’a	elgäh avual’gah	V;IMP;NEG;3;SG
+avual’l’a	elgäh avual’gah	V;IMP;NEG;3;PL
+avual’l’a	elgiä avual’gua	V;IMP;NEG;2;PL
+avual’l’a	avualen	V;PRS;IND;POS;1;SG
+avual’l’a	avualet	V;PRS;IND;POS;2;SG
+avual’l’a	avualemma	V;PRS;IND;POS;1;PL
+avual’l’a	avualetta	V;PRS;IND;POS;2;PL
+avual’l’a	avual’l’ah	V;PRS;IND;POS;3;PL
+avual’l’a	avuale	V;IMP;POS;2;SG
+avual’l’a	en avuale	V;PRS;IND;NEG;1;SG
+avual’l’a	et avuale	V;PRS;IND;NEG;2;SG
+avual’l’a	ei avuale	V;PRS;IND;NEG;3;SG
+avual’l’a	emmä avuale	V;PRS;IND;NEG;1;PL
+avual’l’a	että avuale	V;PRS;IND;NEG;2;PL
+avual’l’a	ei avual’l’a	V;PRS;IND;NEG;3;PL
+avual’l’a	avualin	V;PST;IPFV;IND;POS;1;SG
+avual’l’a	avualit	V;PST;IPFV;IND;POS;2;SG
+avual’l’a	avuali	V;PST;IPFV;IND;POS;3;SG
+avual’l’a	avualima	V;PST;IPFV;IND;POS;1;PL
+avual’l’a	avualija	V;PST;IPFV;IND;POS;2;PL
+avual’l’a	avualija	V.PTCP;PRS;ACT
+avual’l’a	oltih avual’du	V;PST;PRF;IND;POS;3;PL
+avual’l’a	elä avuale	V;IMP;NEG;2;SG
+avual’l’a	avualizin	V;PST;IPFV;COND;POS;1;SG
+avual’l’a	avualizit	V;PST;IPFV;COND;POS;2;SG
+avual’l’a	avualis’	V;PST;IPFV;COND;POS;3;SG
+avual’l’a	avualizima	V;PST;IPFV;COND;POS;1;PL
+avual’l’a	avualizija	V;PST;IPFV;COND;POS;2;PL
+avual’l’a	en avualis’	V;PST;IPFV;COND;NEG;1;SG
+avual’l’a	et avualis’	V;PST;IPFV;COND;NEG;2;SG
+avual’l’a	ei avualis’	V;PST;IPFV;COND;NEG;3;SG
+avual’l’a	emmä avualis’	V;PST;IPFV;COND;NEG;1;PL
+avual’l’a	että avualis’	V;PST;IPFV;COND;NEG;2;PL
+avual’l’a	avualou	V;PRS;IND;POS;3;SG
+elämä	elämällä	N;AT+ESS+ALL;SG
+elämä	elämäh	N;IN+ALL;SG
+elämä	elämäššä	N;IN+ESS;SG
+elämä	elämäštä	N;IN+ABL;SG
+elämä	elämättä	N;PRIV ;SG
+elämä	elämä	N;NOM;SG
+elämä	elämän	N;GEN;SG
+elämä	elämyä	N;PRT;SG
+elämä	elämänä	N;FRML;SG
+elämä	elämäkši	N;TRANS;SG
+elämä	elämäldä	N;AT+ABL;SG
+elämä	elämänke	N;COM;SG
+elämä	elämäčči	N;PROL;SG
+elämä	elämät	N;NOM;PL
+karjala	karjala	N;NOM;SG
+karjala	karjalan	N;GEN;SG
+karjala	karjalua	N;PRT;SG
+karjala	karjalana	N;FRML;SG
+karjala	karjalakši	N;TRANS;SG
+karjala	karjalašša	N;IN+ESS;SG
+karjala	karjalašta	N;IN+ABL;SG
+karjala	karjalah	N;IN+ALL;SG
+karjala	karjalalla	N;AT+ESS+ALL;SG
+karjala	karjalalda	N;AT+ABL;SG
+karjala	karjalatta	N;PRIV ;SG
+karjala	karjalanke	N;COM;SG
+karjala	karjalačči	N;PROL;SG
 kirja	kirjan	N;GEN;SG
-kirja	kirjan	N;ACC;SG
 kirja	kirjua	N;PRT;SG
 kirja	kirja	N;NOM;SG
-kirja	kirja	N;ACC;SG
-kirja	kirjana	N;IN+ESS;SG
 kirja	kirjana	N;FRML;SG
 kirja	kirjakši	N;TRANS;SG
 kirja	kirjašta	N;IN+ABL;SG
 kirja	kirjah	N;IN+ALL;SG
 kirja	kirjalla	N;AT+ESS+ALL;SG
-kirja	kirjalta	N;AT+ABL;SG
 kirja	kirjatta	N;PRIV ;SG
 kirja	kirjat	N;NOM;PL
-kirja	kirjat	N;ACC;PL
-kirja	kirjojen	N;GEN;PL
-kirja	kirjoja	N;PRT;PL
-kirja	kirjoina	N;FRML;PL
-kirja	kirjoiksi	N;TRANS;PL
-kirja	kirjoissa	N;IN+ESS;PL
-kirja	kirjoista	N;IN+ABL;PL
-kirja	kirjoih	N;IN+ALL;PL
-kirja	kirjoilla	N;AT+ESS+ALL;PL
-kirja	kirjoilta	N;AT+ABL;PL
-kirja	kirjoitta	N;PRIV ;PL
-kirja	kirjoin	N;INS;PL
+kirja	kirjanke	N;COM;SG
+kirja	kirjašša	N;IN+ESS;SG
+kirja	kirjalda	N;AT+ABL;SG
+kirja	kirjačči	N;PROL;SG
+kirja	kirjin	N;GEN;PL
+kirja	kirjin	N;INS;PL
+kirja	kirjie	N;PRT;PL
+kirja	kirjinä	N;FRML;PL
+kirja	kirjiksi	N;TRANS;PL
+kirja	kirjissä	N;IN+ESS;PL
+kirja	kirjistä	N;IN+ABL;PL
+kirja	kirjih	N;IN+ALL;PL
+kirja	kirjillä	N;AT+ESS+ALL;PL
+kirja	kirjildä	N;AT+ABL;PL
+kirja	kirjittä	N;PRIV ;PL
+kirja	kirjinke	N;COM;PL
+kirja	kirjičči	N;PROL;PL
 koira	koirin	N;INS;PL
 koira	koirie	N;PRT;PL
 koira	koiran	N;GEN;SG
@@ -284,6 +449,7 @@ kuččuo	ei liene kučuttu	V;PRS;PRF;POT;NEG;3;PL
 kuččuo	kuččunut	V.PTCP;PST;ACT
 kuččuo	kučuttava	V.PTCP;PRS;PASS
 kuččuo	kučuttu	V.PTCP;PST;PASS
+lehti	leheššä	N;IN+ESS;SG
 olla	olit	V;PST;IPFV;IND;POS;2;SG
 olla	olet	V;PRS;IND;POS;2;SG
 olla	olen	V;PRS;IND;POS;1;SG
@@ -361,7 +527,34 @@ pieni	pienillä	ADJ;AT+ESS+ALL;PL
 pieni	pieniltä	ADJ;AT+ABL;PL
 pieni	pienittä	ADJ;PRIV ;PL
 pieni	pienin’eh	ADJ;COM;PL
-projekti	-projektin	N;GEN;SG
+projekti	projektin	N;GEN;SG
+suaharo	suaharon	N;GEN;SG
+suaharo	suaharuo	N;PRT;SG
+suaharo	suaharona	N;FRML;SG
+suaharo	suaharokši	N;TRANS;SG
+suaharo	suaharošša	N;IN+ESS;SG
+suaharo	suaharošta	N;IN+ABL;SG
+suaharo	suaharoh	N;IN+ALL;SG
+suaharo	suaharolla	N;AT+ESS+ALL;SG
+suaharo	suaharolda	N;AT+ABL;SG
+suaharo	suaharotta	N;PRIV ;SG
+suaharo	suaharonke	N;COM;SG
+suaharo	suaharočči	N;PROL;SG
+suaharo	suaharot	N;NOM;PL
+suaharo	suaharoloin	N;GEN;PL
+suaharo	suaharoloin	N;INS;PL
+suaharo	suaharoloida	N;PRT;PL
+suaharo	suaharoloina	N;FRML;PL
+suaharo	suaharoloiksi	N;TRANS;PL
+suaharo	suaharoloissa	N;IN+ESS;PL
+suaharo	suaharoloista	N;IN+ABL;PL
+suaharo	suaharoloih	N;IN+ALL;PL
+suaharo	suaharoloilla	N;AT+ESS+ALL;PL
+suaharo	suaharoloilda	N;AT+ABL;PL
+suaharo	suaharoloitta	N;PRIV ;PL
+suaharo	suaharoloinke	N;COM;PL
+suaharo	suaharoloičči	N;PROL;PL
+suaharo	suaharo	N;NOM;SG
 talo	taluo	N;PRT;SG
 talo	talo	N;NOM;SG
 talo	talo	N;ACC;SG
@@ -415,8 +608,24 @@ venäjä	venäjinä	N;FRML;PL
 venäjä	venäjillä	N;AT+ESS+ALL;PL
 venäjä	venäjiltä	N;AT+ABL;PL
 venäjä	venäjin	N;INS;PL
-čolа	čolа	N;NOM;SG
-čolа	čolie	N;PRT;PL
+vuoši	vuoši	N;NOM;SG
+čola	čolie	N;PRT;PL
+čola	čola	N;NOM;SG
+še	šiitä	PRO;IN+ABL;SG
+še	šiitä	PRO;IN+ABL;PL
+šuomi	šuomi	N;NOM;SG
+šuomi	šuomen	N;GEN;SG
+šuomi	šuomie	N;PRT;SG
+šuomi	šuomena	N;FRML;SG
+šuomi	šuomekši	N;TRANS;SG
+šuomi	šuomešša	N;IN+ESS;SG
+šuomi	šuomešta	N;IN+ABL;SG
+šuomi	šuomeh	N;IN+ALL;SG
+šuomi	šuomella	N;AT+ESS+ALL;SG
+šuomi	šuomelda	N;AT+ABL;SG
+šuomi	šuometta	N;PRIV ;SG
+šuomi	šuomenke	N;COM;SG
+šuomi	šuomečči	N;PROL;SG
 šuuri	šuuri	ADJ;NOM;SG
 šuuri	šuuri	ADJ;ACC;SG
 šuuri	šuuren	ADJ;GEN;SG
@@ -441,3 +650,16 @@ venäjä	venäjin	N;INS;PL
 šuuri	šuurilta	ADJ;AT+ABL;PL
 šuuri	šuuritta	ADJ;PRIV ;PL
 šuuri	šuurin’eh	ADJ;COM;PL
+že	šin	PRO;GEN;SG
+že	šinä	PRO;FRML;SG
+že	šiksi	PRO;TRANS;SG
+že	šissä	PRO;IN+ESS;SG
+že	šistä	PRO;IN+ABL;SG
+že	ših	PRO;IN+ALL;SG
+že	šillä	PRO;AT+ESS+ALL;SG
+že	šildä	PRO;AT+ABL;SG
+že	šittä	PRO;PRIV ;SG
+že	šinke	PRO;COM;SG
+že	šičči	PRO;PROL;SG
+že	šidä	PRO;PRT;SG
+že	že	PRO;NOM;SG
