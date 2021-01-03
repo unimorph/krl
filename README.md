@@ -2,6 +2,7 @@
 
 Contains Karelian and its dialects
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Karelian_dialects_Vepkar_English_2019.png" width="300">
 
 ## Data
 
