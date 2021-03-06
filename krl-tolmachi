@@ -1,4 +1,12 @@
 # Karelian Proper: Tolmachi
+Irina	Irina	PROPN;NOM;SG
+aijan	aijan	N;NOM;SG
+aijan	aijan	N;ACC;SG
+ajanda	ajanda	N;NOM;SG
+ajanda	ajanda	N;ACC;SG
+algua	algua	V;NFIN
+aštova	aštova	N;NOM;SG
+aštova	aštova	N;ACC;SG
 aštuo	aššun	V;PRS;IND;POS;1;SG
 aštuo	aššu	V;IMP;POS;2;SG
 aštuo	aššut	V;PRS;IND;POS;2;SG
@@ -7,6 +15,7 @@ aštuo	aššumma	V;PRS;IND;POS;1;PL
 aštuo	aššutta	V;PRS;IND;POS;2;PL
 aštuo	aššutah	V;PRS;IND;POS;3;PL
 aštuo	en aššu	V;PRS;IND;NEG;1;SG
+aštuo	et aššu	V;PRS;IND;NEG;2;SG
 aštuo	ei aššu	V;PRS;IND;NEG;3;SG
 aštuo	emmä aššu	V;PRS;IND;NEG;1;PL
 aštuo	että aššu	V;PRS;IND;NEG;2;PL
@@ -39,70 +48,207 @@ aštuo	olit aštun	V;PST;PRF;IND;POS;2;SG
 aštuo	oli aštun	V;PST;PRF;IND;POS;3;SG
 aštuo	olima aštun	V;PST;PRF;IND;POS;1;PL
 aštuo	olija aštun	V;PST;PRF;IND;POS;2;PL
-aštuo	oli aššuttu	V;PST;PRF;IND;POS;3;PL
 aštuo	et ollun aštun	V;PST;PRF;IND;NEG;2;SG
 aštuo	ei ollun aštun	V;PST;PRF;IND;NEG;3;SG
 aštuo	emmä ollun aštun	V;PST;PRF;IND;NEG;1;PL
-aštuo	ei oltu aššuttu	V;PST;PRF;IND;NEG;3;PL
 aštuo	aštukkah	V;IMP;POS;3;SG
 aštuo	aštukkah	V;IMP;POS;3;PL
-aštuo	aštukka	V;IMP;POS;1;PL
 aštuo	aštukkua	V;IMP;POS;2;PL
 aštuo	elä aššu	V;IMP;NEG;2;SG
 aštuo	elgäh aštukkah	V;IMP;NEG;3;SG
 aštuo	elgäh aštukkah	V;IMP;NEG;3;PL
-aštuo	elkä aštukka	V;IMP;NEG;1;PL
+aštuo	lienen aštun	V;PRS;PRF;POT;POS;1;SG
+aštuo	lienet aštun	V;PRS;PRF;POT;POS;2;SG
+aštuo	lienöy aštun	V;PRS;PRF;POT;POS;3;SG
+aštuo	lienemmä aštun	V;PRS;PRF;POT;POS;1;PL
+aštuo	lienettä aštun	V;PRS;PRF;POT;POS;2;PL
+aštuo	lienöy aššuttu	V;PRS;PRF;POT;POS;3;PL
+aštuo	en liene aštun	V;PRS;PRF;POT;NEG;1;SG
+aštuo	et liene aštun	V;PRS;PRF;POT;NEG;2;SG
+aštuo	ei liene aštun	V;PRS;PRF;POT;NEG;3;SG
+aštuo	emmä liene aštun	V;PRS;PRF;POT;NEG;1;PL
+aštuo	että liene aštun	V;PRS;PRF;POT;NEG;2;PL
+aštuo	ei liene aššuttu	V;PRS;PRF;POT;NEG;3;PL
 aštuo	aštuo	V;NFIN
 aštuo	aššuttava	V.PTCP;PRS;PASS
 aštuo	aššuttu	V.PTCP;PST;PASS
 aštuo	en ollun aštun	V;PST;PRF;IND;NEG;1;SG
 aštuo	että ollun aštun	V;PST;PRF;IND;NEG;2;PL
-aštuo	elgyä aštukkua	V;IMP;NEG;2;PL
 aštuo	aštuzin	V;PST;IPFV;COND;POS;1;SG
 aštuo	aštuzit	V;PST;IPFV;COND;POS;2;SG
-aštuo	aštuisʼ	V;PST;IPFV;COND;POS;3;SG
 aštuo	aštuzima	V;PST;IPFV;COND;POS;1;PL
 aštuo	aštuzija	V;PST;IPFV;COND;POS;2;PL
-aštuo	aššuttaisʼ	V;PST;IPFV;COND;POS;3;PL
-aštuo	en aštuisʼ	V;PST;IPFV;COND;NEG;1;SG
-aštuo	et aštuisʼ	V;PST;IPFV;COND;NEG;2;SG
-aštuo	ei aštuisʼ	V;PST;IPFV;COND;NEG;3;SG
-aštuo	emmä aštuisʼ	V;PST;IPFV;COND;NEG;1;PL
-aštuo	että aštuisʼ	V;PST;IPFV;COND;NEG;2;PL
-aštuo	ei aššuttaisʼ	V;PST;IPFV;COND;NEG;3;PL
 aštuo	olizin aštun	V;PST;PRF;COND;POS;1;SG
 aštuo	olizit aštun	V;PST;PRF;COND;POS;2;SG
-aštuo	olisʼ aštun	V;PST;PRF;COND;POS;3;SG
 aštuo	olizima aštun	V;PST;PRF;COND;POS;1;PL
 aštuo	olizija aštun	V;PST;PRF;COND;POS;2;PL
-aštuo	olisʼ aššuttu	V;PST;PRF;COND;POS;3;PL
-aštuo	en olisʼ aštun	V;PST;PRF;COND;NEG;1;SG
-aštuo	et olisʼ aštun	V;PST;PRF;COND;NEG;2;SG
-aštuo	ei olisʼ aštun	V;PST;PRF;COND;NEG;3;SG
-aštuo	emmä olisʼ aštun	V;PST;PRF;COND;NEG;1;PL
-aštuo	että olisʼ aštun	V;PST;PRF;COND;NEG;2;PL
-aštuo	ei olisʼ aššuttu	V;PST;PRF;COND;NEG;3;PL
 aštuo	aštunnen	V;PRS;POT;POS;1;SG
 aštuo	aštunnet	V;PRS;POT;POS;2;SG
 aštuo	aštunnou	V;PRS;POT;POS;3;SG
 aštuo	aštunnemma	V;PRS;POT;POS;1;PL
 aštuo	aštunnetta	V;PRS;POT;POS;2;PL
-aštuo	aššutanneh	V;PRS;POT;POS;3;PL
 aštuo	en aštunne	V;PRS;POT;NEG;1;SG
 aštuo	et aštunne	V;PRS;POT;NEG;2;SG
 aštuo	ei aštunne	V;PRS;POT;NEG;3;SG
 aštuo	emmä aštunne	V;PRS;POT;NEG;1;PL
 aštuo	että aštunne	V;PRS;POT;NEG;2;PL
-aštuo	ei aššutanne	V;PRS;POT;NEG;3;PL
 aštuo	aštunnun	V.PTCP;PST;ACT
-aštuo	en ole’	V;PRS;PRF;IND;NEG;1;SG
-aštuo	ei ole’	V;PRS;PRF;IND;NEG;3;SG
+aštuo	aštun	V.PTCP;PST;ACT;PRS;PRF
+aštuo	en ole aštun	V;PRS;PRF;IND;NEG;1;SG
+aštuo	ei ole aštun	V;PRS;PRF;IND;NEG;3;SG
+aštuo	oldih aššuttu	V;PST;PRF;IND;POS;3;PL
+aštuo	ei oldu aššuttu	V;PST;PRF;IND;NEG;3;PL
+aštuo	elgiä aštukkua	V;IMP;NEG;2;PL
+aštuo	aštuis’	V;PST;IPFV;COND;POS;3;SG
+aštuo	aššuttais’	V;PST;IPFV;COND;POS;3;PL
+aštuo	en aštuis’	V;PST;IPFV;COND;NEG;1;SG
+aštuo	et aštuis’	V;PST;IPFV;COND;NEG;2;SG
+aštuo	ei aštuis’	V;PST;IPFV;COND;NEG;3;SG
+aštuo	emmä aštuis’	V;PST;IPFV;COND;NEG;1;PL
+aštuo	että aštuis’	V;PST;IPFV;COND;NEG;2;PL
+aštuo	ei aššuttais’	V;PST;IPFV;COND;NEG;3;PL
+aštuo	olis’ aštun	V;PST;PRF;COND;POS;3;SG
+aštuo	olis’ aššuttu	V;PST;PRF;COND;POS;3;PL
+aštuo	en olis’ aštun	V;PST;PRF;COND;NEG;1;SG
+aštuo	et olis’ aštun	V;PST;PRF;COND;NEG;2;SG
+aštuo	ei olis’ aštun	V;PST;PRF;COND;NEG;3;SG
+aštuo	emmä olis’ aštun	V;PST;PRF;COND;NEG;1;PL
+aštuo	että olis’ aštun	V;PST;PRF;COND;NEG;2;PL
+aštuo	ei olis’ aššuttu	V;PST;PRF;COND;NEG;3;PL
+aštuo	aššuttanneh	V;PRS;POT;POS;3;PL
+aštuo	ei aššuttanne	V;PRS;POT;NEG;3;PL
+bluaslovie	bluaslovie	V;NFIN
+bremo	bremo	N;NOM;SG
+bremo	bremo	N;ACC;SG
+buzat	buzat	N;NOM;SG
+buzat	buzat	N;ACC;SG
+bučki	bučki	N;NOM;SG
+bučki	bučki	N;ACC;SG
+duwmaija	duwmaija	V;NFIN
+edimmäine	edimmäine	ADJ;NOM;SG
+edimmäine	edimmäine	ADJ;ACC;SG
+eistüö	eistüö	V;NFIN
+enžimaneargi	enžimaneargi	N;NOM;SG
+enžimaneargi	enžimaneargi	N;ACC;SG
+etuaža	etuaža	N;NOM;SG
+etuaža	etuaža	N;ACC;SG
+grebie	grebie	V;NFIN
+gruppa	gruppua	N;PRT;SG
+havaštuo	havaštuo	V;NFIN
+hawduo	hawduo	V;NFIN
+hawkka	hawkka	N;NOM;SG
+hawkka	hawkka	N;ACC;SG
+hawkkua	hawkkua	V;NFIN
+hawkkuo	hawkkuo	V;NFIN
+heiettiäččie	heiettiäččie	V;NFIN
+helto	helto	N;NOM;SG
+helto	helto	N;ACC;SG
+hengipaikka	hengipaikka	N;NOM;SG
+hengipaikka	hengipaikka	N;ACC;SG
+hirnuta	hirnuta	V;NFIN
+huwhtuo	huwhtuo	V;NFIN
+häküttiä	häküttiä	V;NFIN
+härmä	härmä	N;NOM;SG
+härmä	härmä	N;ACC;SG
+hävittiä	hävittiä	V;NFIN
+häčvä	häčvä	N;NOM;SG
+häčvä	häčvä	N;ACC;SG
+hüpätä	hüpätä	V;NFIN
+hüwbie	hüwbie	N;NOM;SG
+hüwbie	hüwbie	N;ACC;SG
+idü	idü	N;NOM;SG
+idü	idü	N;ACC;SG
+ilvewš	ilvewš	N;NOM;SG
+ilvewš	ilvewš	N;ACC;SG
+iänewdüö	iänewdüö	V;NFIN
+juwva	juwva	V;NFIN
+järittiä	järittiä	V;NFIN
+kablie	kablie	V;NFIN
+kabuta	kabui	V;PST;IPFV;IND;POS;3;SG
+kabuta	Kabui	V;PST;IPFV;IND;POS;3;SG
+kanane	kanazet	N;NOM;PL
+kannattaja	kannattaja	N;NOM;SG
+kannattaja	kannattaja	N;ACC;SG
+kannattajane	kannattajane	N;NOM;SG
+kannattajane	kannattajane	N;ACC;SG
+kannikkane	kannikkane	N;NOM;SG
+kannikkane	kannikkane	N;ACC;SG
+kariela	karielas’t’a	N;PRT;SG
+kauppištua	kauppištua	V;NFIN
+kehno	kehno	N;NOM;SG
+kehno	kehno	N;ACC;SG
+keldapöččö	keldapöččö	N;NOM;SG
+keldapöččö	keldapöččö	N;ACC;SG
+keräne	Keräzel’l’ä	N;AT+ESS+ALL;SG
+kezando	kezando	N;NOM;SG
+kezando	kezando	N;ACC;SG
+keškipuoli	keškipuolella	N;AT+ESS+ALL;SG
+keškipäivänranda	keškipäivänranda	N;NOM;SG
+keškipäivänranda	keškipäivänranda	N;ACC;SG
+keškiranda	keškirannašša	N;IN+ESS;SG
+kiistiä	kiistiä	V;NFIN
+kiisto	kiisto	N;NOM;SG
+kiisto	kiisto	N;ACC;SG
+knähinä	knähinä	N;NOM;SG
+knähinä	knähinä	N;ACC;SG
+korauttua	korauttua	V;NFIN
+korpussa	korpussah	N;IN+ALL;SG
+kruikkua	kruikkua	V;NFIN
+kuhma	kuhma	ADJ;NOM;SG
+kuhma	kuhma	ADJ;ACC;SG
+kuhmata	kuhmata	V;NFIN
+kukkura	kukkura	N;NOM;SG
+kukkura	kukkura	N;ACC;SG
+kuukla	kuukla	N;NOM;SG
+kuukla	kuukla	N;ACC;SG
+kuwlla	kuwlla	V;NFIN
+kuzimuuruahine	kuzimuuruahine	N;NOM;SG
+kuzimuuruahine	kuzimuuruahine	N;ACC;SG
+kylyne	kylyzeh	N;IN+ALL;SG
+kärhät	kärhät	N;NOM;SG
+kärhät	kärhät	N;ACC;SG
+käržittiä	käržittiä	V;NFIN
+kündiä	kündiä	V;NFIN
+küwhkü	küwhkü	N;NOM;SG
+küwhkü	küwhkü	N;ACC;SG
+küwnel	küwnel	N;NOM;SG
+küwnel	küwnel	N;ACC;SG
+landiet	landiet	N;NOM;SG
+landiet	landiet	N;ACC;SG
+lewga	lewga	N;NOM;SG
+lewga	lewga	N;ACC;SG
+liipka	liipka	N;NOM;SG
+liipka	liipka	N;ACC;SG
+linčikkä	linčikkä	N;NOM;SG
+linčikkä	linčikkä	N;ACC;SG
+literaturnoi	literaturnoi	N;NOM;SG
+lod’ma	lod’ma	N;NOM;SG
+lod’ma	lod’ma	N;ACC;SG
+los’a	los’a	N;NOM;SG
+los’a	los’a	N;ACC;SG
+lotka	lotka	N;NOM;SG
+lotka	lotka	N;ACC;SG
+luka	luka	N;NOM;SG
+luka	luka	N;ACC;SG
+luwva	luwva	V;NFIN
+läimiä	läimiä	V;NFIN
+lämbymärandakariela	lämbymärandakarielakši	N;TRANS;SG
+lämbymärandane	lämbymärandazet	ADJ;NOM;PL
+löwdiä	löwdiä	V;NFIN
+löühküttiä	löühküttiä	V;NFIN
+lüwdiä	lüwdiä	V;NFIN
+lüwvä	lüwvä	V;NFIN
+maidomöükküne	maidomöükküne	N;NOM;SG
+maidomöükküne	maidomöükküne	N;ACC;SG
+mečanizändä	mečanizändä	N;NOM;SG
+mečanizändä	mečanizändä	N;ACC;SG
 meččä	mečän	N;GEN;SG
 meččä	mečän	N;ACC;SG
 meččä	meččäh	N;IN+ALL;SG
 meččä	mečänke	N;COM;SG
 meččä	meččih	N;IN+ALL;PL
 meččä	meččä	N;NOM;SG
+meččä	meččä	N;ACC;SG
 meččä	mečäkši	N;TRANS;SG
 meččä	mečättä	N;PRIV ;SG
 meččä	meččänä	N;FRML;SG
@@ -126,3 +272,222 @@ meččä	meččiin	N;GEN;PL
 meččä	mečildä	N;AT+ABL;PL
 meččä	mečinke	N;COM;PL
 meččä	mečiin	N;INS;PL
+miellüttiä	miellüttiä	V;NFIN
+muajuablukka	muajuablukka	N;NOM;SG
+muajuablukka	muajuablukka	N;ACC;SG
+muačeha	muačeha	N;NOM;SG
+muačeha	muačeha	N;ACC;SG
+murčowhka	murčowhka	N;NOM;SG
+murčowhka	murčowhka	N;ACC;SG
+mučoittua	mučoittua	V;NFIN
+mužova	mužova	ADJ;NOM;SG
+mužova	mužova	ADJ;ACC;SG
+möngüö	möngüö	V;NFIN
+müöštiäčie	müöštiäčie	V;NFIN
+newguo	newguo	V;NFIN
+newvuo	newvuo	V;NFIN
+nielo	nielo	N;NOM;SG
+nielo	nielo	N;ACC;SG
+näblätä	näblätä	V;NFIN
+nältä	nältä	N;NOM;SG
+nältä	nältä	N;ACC;SG
+n’uwhella	n’uwhella	V;NFIN
+n’uwhtua	n’uwhtua	V;NFIN
+ogaš	ogaš	N;NOM;SG
+ogaš	ogaš	N;ACC;SG
+ogehane	ogehane	N;NOM;SG
+ogehane	ogehane	N;ACC;SG
+olgupiä	olgupiällä	N;AT+ESS+ALL;SG
+orahankarvaine	orahankarvaine	ADJ;NOM;SG
+orahankarvaine	orahankarvaine	ADJ;ACC;SG
+orane	orazella	N;AT+ESS+ALL;SG
+oučina	oučina	N;NOM;SG
+oučina	oučina	N;ACC;SG
+padarie	padarie	V;NFIN
+paissa	pagizou	V;PRS;IND;POS;3;SG
+papiroskua	papiroskua	N;PRT;SG
+parahiin	parahiin	ADJ;NOM;SG
+parahiin	parahiin	ADJ;ACC;SG
+pertipuoli	pertipuolešša	N;IN+ESS;SG
+pidäw	pidäw	V;NFIN
+piettiä	piettiä	V;NFIN
+piäkšüt	piäkšüt	N;NOM;SG
+piäkšüt	piäkšüt	N;ACC;SG
+piämurreh	piämurdehista	N;IN+ABL;PL
+piärmitä	piärmitä	V;NFIN
+plastina	plastina	N;NOM;SG
+plastina	plastina	N;ACC;SG
+pokoiniekka	pokoiniekan	N;GEN;SG
+poččine	poččine	N;NOM;SG
+poččine	poččine	N;ACC;SG
+prawda	prawda	N;NOM;SG
+prawda	prawda	N;ACC;SG
+puarussi	puarussi	N;NOM;SG
+puarussi	puarussi	N;ACC;SG
+puolipäivänranda	puolipäivänranda	N;NOM;SG
+puolipäivänranda	puolipäivänranda	N;ACC;SG
+puoliüöranda	puoliüöranda	N;NOM;SG
+puoliüöranda	puoliüöranda	N;ACC;SG
+puwttuo	puwttuo	V;NFIN
+päiväzenlaškuranda	päiväzenlaškuranda	N;NOM;SG
+päiväzenlaškuranda	päiväzenlaškuranda	N;ACC;SG
+päiväzennouzuranda	päiväzennouzuranda	N;NOM;SG
+päiväzennouzuranda	päiväzennouzuranda	N;ACC;SG
+pöngär	pöngär	N;NOM;SG
+pöngär	pöngär	N;ACC;SG
+pöürü	pöürü	N;NOM;SG
+pöürü	pöürü	N;ACC;SG
+püw	püw	N;NOM;SG
+püw	püw	N;ACC;SG
+püwhki	püwhki	V;NFIN
+püwhkie	püwhkie	V;NFIN
+püüdiä	püüdiä	V;NFIN
+rajakarielane	rajakarielazet	N;NOM;PL
+redukaš	redukaš	ADJ;NOM;SG
+redukaš	redukaš	ADJ;ACC;SG
+rejät	rejät	N;NOM;SG
+rejät	rejät	N;ACC;SG
+ridane	ridane	N;NOM;SG
+ridane	ridane	N;ACC;SG
+riiččie	riiččie	V;NFIN
+ripsi	ripsi	N;NOM;SG
+ripsi	ripsi	N;ACC;SG
+rissitändä	rissitändä	N;NOM;SG
+rissitändä	rissitändä	N;ACC;SG
+riäzittiä	riäzittiä	V;NFIN
+ruga	ruga	N;NOM;SG
+ruga	ruga	N;ACC;SG
+ruokita	ruokita	V;NFIN
+rutta	rutta	N;NOM;SG
+rutta	rutta	N;ACC;SG
+ruwmen	ruwmen	N;NOM;SG
+ruwmen	ruwmen	N;ACC;SG
+ruwčča	ruwčča	N;NOM;SG
+ruwčča	ruwčča	N;ACC;SG
+shodka	shodka	N;NOM;SG
+shodka	shodka	N;ACC;SG
+siemendiä	siemendiä	V;NFIN
+skuwppa	skuwppa	ADJ;NOM;SG
+skuwppa	skuwppa	ADJ;ACC;SG
+smorodina	smorodina	N;NOM;SG
+smorodina	smorodina	N;ACC;SG
+soglasti	soglasti	N;NOM;SG
+soglasti	soglasti	N;ACC;SG
+stuavat	stuavat	N;NOM;SG
+stuavat	stuavat	N;ACC;SG
+sudibo	sudibo	N;NOM;SG
+sudibo	sudibo	N;ACC;SG
+suimu	suimu	N;NOM;SG
+suimu	suimu	N;ACC;SG
+sv’atoi	sv’atoi	ADJ;NOM;SG
+sv’atoi	sv’atoi	ADJ;ACC;SG
+sütüttiää	sütüttiää	V;NFIN
+tagimmane	tagimmane	ADJ;NOM;SG
+tagimmane	tagimmane	ADJ;ACC;SG
+talohuš	talohuš	N;NOM;SG
+talohuš	talohuš	N;ACC;SG
+tieduija	tieduija	V;NFIN
+tietä	tietä	V;NFIN
+tuahitukku	tuahitukku	N;NOM;SG
+tuahitukku	tuahitukku	N;ACC;SG
+tukku	tukku	N;NOM;SG
+tukku	tukku	N;ACC;SG
+tunnuštua	tunnuštua	V;NFIN
+töwkätä	töwkätä	V;NFIN
+tüunistüö	tüunistüö	V;NFIN
+unetuš	unetuš	N;NOM;SG
+unetuš	unetuš	N;ACC;SG
+uročču	uročču	N;NOM;SG
+uročču	uročču	N;ACC;SG
+uwttua	uwttua	V;NFIN
+uwži	uwži	ADJ;NOM;SG
+uwži	uwži	ADJ;ACC;SG
+valgiene	Valgiezet	ADJ;NOM;PL
+val’ožnikka	val’ožnikka	N;NOM;SG
+val’ožnikka	val’ožnikka	N;ACC;SG
+vandahuš	vandahuš	N;NOM;SG
+vandahuš	vandahuš	N;ACC;SG
+vannaš	vannaš	N;NOM;SG
+vannaš	vannaš	N;ACC;SG
+varata	varaima	V;PST;IPFV;IND;POS;1;PL
+vardilo	vardilo	N;NOM;SG
+vardilo	vardilo	N;ACC;SG
+varžinaiskarielane	varžinaiskarielazie	N;PRT;PL
+veha	veha	N;NOM;SG
+veha	veha	N;ACC;SG
+veniäläzet	veniäläzet	N;NOM;SG
+veniäläzet	veniäläzet	N;ACC;SG
+venüttiäčie	venüttiäčie	V;NFIN
+veššelüš	veššelüš	N;NOM;SG
+veššelüš	veššelüš	N;ACC;SG
+vežane	vežane	N;NOM;SG
+vežane	vežane	N;ACC;SG
+viehkuri	viehkuri	N;NOM;SG
+viehkuri	viehkuri	N;ACC;SG
+viena	vienakši	N;TRANS;SG
+viipsie	viipsie	V;NFIN
+vilurandakariela	vilurandakarielakši	N;TRANS;SG
+vilurandane	vilurandazet	ADJ;NOM;PL
+vitunligi	vitunligi	N;NOM;SG
+vitunligi	vitunligi	N;ACC;SG
+viuhkuttua	viuhkuttua	V;NFIN
+viühtie	viühtie	V;NFIN
+voija	voičis’	V;PST;IPFV;COND;POS;3;SG
+voina	voinan	N;GEN;SG
+voina	voinan	N;ACC;SG
+voina	voina	N;NOM;SG
+voina	voinah	N;IN+ALL;SG
+volna	volna	N;NOM;SG
+volna	volna	N;ACC;SG
+vuahtera	vuahtera	N;NOM;SG
+vuahtera	vuahtera	N;ACC;SG
+zapuasta	zapuasta	N;NOM;SG
+zapuasta	zapuasta	N;ACC;SG
+zvolat	zvolat	N;NOM;SG
+zvolat	zvolat	N;ACC;SG
+üölakko	üölakko	N;NOM;SG
+üölakko	üölakko	N;ACC;SG
+čaika	čaika	N;NOM;SG
+čaika	čaika	N;ACC;SG
+čigarka	čigarkašta	N;IN+ABL;SG
+čigarka	čigarkua	N;PRT;SG
+čihmerrüs	čihmerrüs	N;NOM;SG
+čihmerrüs	čihmerrüs	N;ACC;SG
+čiigananluzikka	čiigananluzikka	N;NOM;SG
+čiigananluzikka	čiigananluzikka	N;ACC;SG
+čilbie	čilbie	V;NFIN
+čuwru	čuwru	N;NOM;SG
+čuwru	čuwru	N;ACC;SG
+šadula	šadula	N;NOM;SG
+šadula	šadula	N;ACC;SG
+šamalo	šamalo	N;NOM;SG
+šamalo	šamalo	N;ACC;SG
+še	šen	PRO;GEN;SG
+šein’	šein’	N;NOM;SG
+šein’	šein’	N;ACC;SG
+šiibil’oijä	šiibil’oijä	V;NFIN
+šiä	šiä	PRO;NOM;SG
+šiä	šiä	PRO;ACC;SG
+šiämüštä	šiämüštä	N;NOM;SG
+šiämüštä	šiämüštä	N;ACC;SG
+šiänjäičät	šiänjäičät	N;NOM;SG
+šiänjäičät	šiänjäičät	N;ACC;SG
+šlöččä	šlöččä	N;NOM;SG
+šlöččä	šlöččä	N;ACC;SG
+šordua	šordua	V;NFIN
+šualistuo	šualistuo	V;NFIN
+šurma	šurmah	N;IN+ALL;SG
+šuw	šuw	N;NOM;SG
+šuw	šuw	N;ACC;SG
+šuwriluguine	šuwriluguine	ADJ;NOM;SG
+šuwriluguine	šuwriluguine	ADJ;ACC;SG
+šälgü	šälgü	N;NOM;SG
+šälgü	šälgü	N;ACC;SG
+šärbiä	šärbiä	V;NFIN
+šärissä	šärissä	V;NFIN
+šüvätä	šüvätä	V;NFIN
+šüwhüttiä	šüwhüttiä	V;NFIN
+šüwvä	šüwvä	V;NFIN
+šüöttia	šüöttia	V;NFIN
+žuaglat	žuaglat	N;NOM;SG
+žuaglat	žuaglat	N;ACC;SG
