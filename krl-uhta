@@ -1,6 +1,5 @@
 # Karelian Proper: Uhta
 aštuo	aššun	V;PRS;IND;POS;1;SG
-aštuo	aššu	V;IMP;POS;2;SG
 aštuo	aššut	V;PRS;IND;POS;2;SG
 aštuo	aštuu	V;PRS;IND;POS;3;SG
 aštuo	aššumma	V;PRS;IND;POS;1;PL
@@ -17,7 +16,6 @@ aštuo	aššuit	V;PST;IPFV;IND;POS;2;SG
 aštuo	aštu	V;PST;IPFV;IND;POS;3;SG
 aštuo	aštuma	V;PST;IPFV;IND;POS;1;PL
 aštuo	aštuja	V;PST;IPFV;IND;POS;2;PL
-aštuo	aštuja	V.PTCP;PRS;ACT
 aštuo	aššuttih	V;PST;IPFV;IND;POS;3;PL
 aštuo	en aštun	V;PST;IPFV;IND;NEG;1;SG
 aštuo	et aštun	V;PST;IPFV;IND;NEG;2;SG
@@ -31,7 +29,9 @@ aštuo	on aštun	V;PRS;PRF;IND;POS;3;SG
 aštuo	olemma aštun	V;PRS;PRF;IND;POS;1;PL
 aštuo	oletta aštun	V;PRS;PRF;IND;POS;2;PL
 aštuo	on aššuttu	V;PRS;PRF;IND;POS;3;PL
+aštuo	en ole aštun	V;PRS;PRF;IND;NEG;1;SG
 aštuo	et ole aštun	V;PRS;PRF;IND;NEG;2;SG
+aštuo	ei ole aštun	V;PRS;PRF;IND;NEG;3;SG
 aštuo	emmä ole aštun	V;PRS;PRF;IND;NEG;1;PL
 aštuo	että ole aštun	V;PRS;PRF;IND;NEG;2;PL
 aštuo	ei ole aššuttu	V;PRS;PRF;IND;NEG;3;PL
@@ -40,15 +40,57 @@ aštuo	olit aštun	V;PST;PRF;IND;POS;2;SG
 aštuo	oli aštun	V;PST;PRF;IND;POS;3;SG
 aštuo	olima aštun	V;PST;PRF;IND;POS;1;PL
 aštuo	olija aštun	V;PST;PRF;IND;POS;2;PL
+aštuo	oldih aššuttu	V;PST;PRF;IND;POS;3;PL
+aštuo	en ollun aštun	V;PST;PRF;IND;NEG;1;SG
 aštuo	et ollun aštun	V;PST;PRF;IND;NEG;2;SG
 aštuo	ei ollun aštun	V;PST;PRF;IND;NEG;3;SG
 aštuo	emmä ollun aštun	V;PST;PRF;IND;NEG;1;PL
+aštuo	että ollun aštun	V;PST;PRF;IND;NEG;2;PL
+aštuo	ei oldu aššuttu	V;PST;PRF;IND;NEG;3;PL
+aštuo	aššu	V;IMP;POS;2;SG
 aštuo	aštukkah	V;IMP;POS;3;SG
-aštuo	aštukkah	V;IMP;POS;3;PL
 aštuo	aštukkua	V;IMP;POS;2;PL
+aštuo	aštukkah	V;IMP;POS;3;PL
 aštuo	elä aššu	V;IMP;NEG;2;SG
 aštuo	elgäh aštukkah	V;IMP;NEG;3;SG
+aštuo	elgiä aštukkua	V;IMP;NEG;2;PL
 aštuo	elgäh aštukkah	V;IMP;NEG;3;PL
+aštuo	aštuzin	V;PST;IPFV;COND;POS;1;SG
+aštuo	aštuzit	V;PST;IPFV;COND;POS;2;SG
+aštuo	aštuis’	V;PST;IPFV;COND;POS;3;SG
+aštuo	aštuzima	V;PST;IPFV;COND;POS;1;PL
+aštuo	aštuzija	V;PST;IPFV;COND;POS;2;PL
+aštuo	aššuttais’	V;PST;IPFV;COND;POS;3;PL
+aštuo	en aštuis’	V;PST;IPFV;COND;NEG;1;SG
+aštuo	et aštuis’	V;PST;IPFV;COND;NEG;2;SG
+aštuo	ei aštuis’	V;PST;IPFV;COND;NEG;3;SG
+aštuo	emmä aštuis’	V;PST;IPFV;COND;NEG;1;PL
+aštuo	että aštuis’	V;PST;IPFV;COND;NEG;2;PL
+aštuo	ei aššuttais’	V;PST;IPFV;COND;NEG;3;PL
+aštuo	olizin aštun	V;PST;PRF;COND;POS;1;SG
+aštuo	olizit aštun	V;PST;PRF;COND;POS;2;SG
+aštuo	olis’ aštun	V;PST;PRF;COND;POS;3;SG
+aštuo	olizima aštun	V;PST;PRF;COND;POS;1;PL
+aštuo	olizija aštun	V;PST;PRF;COND;POS;2;PL
+aštuo	olis’ aššuttu	V;PST;PRF;COND;POS;3;PL
+aštuo	en olis’ aštun	V;PST;PRF;COND;NEG;1;SG
+aštuo	et olis’ aštun	V;PST;PRF;COND;NEG;2;SG
+aštuo	ei olis’ aštun	V;PST;PRF;COND;NEG;3;SG
+aštuo	emmä olis’ aštun	V;PST;PRF;COND;NEG;1;PL
+aštuo	että olis’ aštun	V;PST;PRF;COND;NEG;2;PL
+aštuo	ei olis’ aššuttu	V;PST;PRF;COND;NEG;3;PL
+aštuo	aštunnen	V;PRS;POT;POS;1;SG
+aštuo	aštunnet	V;PRS;POT;POS;2;SG
+aštuo	aštunnou	V;PRS;POT;POS;3;SG
+aštuo	aštunnemma	V;PRS;POT;POS;1;PL
+aštuo	aštunnetta	V;PRS;POT;POS;2;PL
+aštuo	aššuttanneh	V;PRS;POT;POS;3;PL
+aštuo	en aštunne	V;PRS;POT;NEG;1;SG
+aštuo	et aštunne	V;PRS;POT;NEG;2;SG
+aštuo	ei aštunne	V;PRS;POT;NEG;3;SG
+aštuo	emmä aštunne	V;PRS;POT;NEG;1;PL
+aštuo	että aštunne	V;PRS;POT;NEG;2;PL
+aštuo	ei aššuttanne	V;PRS;POT;NEG;3;PL
 aštuo	lienen aštun	V;PRS;PRF;POT;POS;1;SG
 aštuo	lienet aštun	V;PRS;PRF;POT;POS;2;SG
 aštuo	lienöy aštun	V;PRS;PRF;POT;POS;3;SG
@@ -62,53 +104,11 @@ aštuo	emmä liene aštun	V;PRS;PRF;POT;NEG;1;PL
 aštuo	että liene aštun	V;PRS;PRF;POT;NEG;2;PL
 aštuo	ei liene aššuttu	V;PRS;PRF;POT;NEG;3;PL
 aštuo	aštuo	V;NFIN
-aštuo	aššuttava	V.PTCP;PRS;PASS
-aštuo	aššuttu	V.PTCP;PST;PASS
-aštuo	en ollun aštun	V;PST;PRF;IND;NEG;1;SG
-aštuo	että ollun aštun	V;PST;PRF;IND;NEG;2;PL
-aštuo	aštuzin	V;PST;IPFV;COND;POS;1;SG
-aštuo	aštuzit	V;PST;IPFV;COND;POS;2;SG
-aštuo	aštuzima	V;PST;IPFV;COND;POS;1;PL
-aštuo	aštuzija	V;PST;IPFV;COND;POS;2;PL
-aštuo	olizin aštun	V;PST;PRF;COND;POS;1;SG
-aštuo	olizit aštun	V;PST;PRF;COND;POS;2;SG
-aštuo	olizima aštun	V;PST;PRF;COND;POS;1;PL
-aštuo	olizija aštun	V;PST;PRF;COND;POS;2;PL
-aštuo	aštunnen	V;PRS;POT;POS;1;SG
-aštuo	aštunnet	V;PRS;POT;POS;2;SG
-aštuo	aštunnou	V;PRS;POT;POS;3;SG
-aštuo	aštunnemma	V;PRS;POT;POS;1;PL
-aštuo	aštunnetta	V;PRS;POT;POS;2;PL
-aštuo	en aštunne	V;PRS;POT;NEG;1;SG
-aštuo	et aštunne	V;PRS;POT;NEG;2;SG
-aštuo	ei aštunne	V;PRS;POT;NEG;3;SG
-aštuo	emmä aštunne	V;PRS;POT;NEG;1;PL
-aštuo	että aštunne	V;PRS;POT;NEG;2;PL
+aštuo	aštuja	V.PTCP;PRS;ACT
 aštuo	aštunnun	V.PTCP;PST;ACT
 aštuo	aštun	V.PTCP;PST;ACT;PRS;PRF
-aštuo	en ole aštun	V;PRS;PRF;IND;NEG;1;SG
-aštuo	ei ole aštun	V;PRS;PRF;IND;NEG;3;SG
-aštuo	oldih aššuttu	V;PST;PRF;IND;POS;3;PL
-aštuo	ei oldu aššuttu	V;PST;PRF;IND;NEG;3;PL
-aštuo	elgiä aštukkua	V;IMP;NEG;2;PL
-aštuo	aštuis’	V;PST;IPFV;COND;POS;3;SG
-aštuo	aššuttais’	V;PST;IPFV;COND;POS;3;PL
-aštuo	en aštuis’	V;PST;IPFV;COND;NEG;1;SG
-aštuo	et aštuis’	V;PST;IPFV;COND;NEG;2;SG
-aštuo	ei aštuis’	V;PST;IPFV;COND;NEG;3;SG
-aštuo	emmä aštuis’	V;PST;IPFV;COND;NEG;1;PL
-aštuo	että aštuis’	V;PST;IPFV;COND;NEG;2;PL
-aštuo	ei aššuttais’	V;PST;IPFV;COND;NEG;3;PL
-aštuo	olis’ aštun	V;PST;PRF;COND;POS;3;SG
-aštuo	olis’ aššuttu	V;PST;PRF;COND;POS;3;PL
-aštuo	en olis’ aštun	V;PST;PRF;COND;NEG;1;SG
-aštuo	et olis’ aštun	V;PST;PRF;COND;NEG;2;SG
-aštuo	ei olis’ aštun	V;PST;PRF;COND;NEG;3;SG
-aštuo	emmä olis’ aštun	V;PST;PRF;COND;NEG;1;PL
-aštuo	että olis’ aštun	V;PST;PRF;COND;NEG;2;PL
-aštuo	ei olis’ aššuttu	V;PST;PRF;COND;NEG;3;PL
-aštuo	aššuttanneh	V;PRS;POT;POS;3;PL
-aštuo	ei aššuttanne	V;PRS;POT;NEG;3;PL
+aštuo	aššuttava	V.PTCP;PRS;PASS
+aštuo	aššuttu	V.PTCP;PST;PASS
 hankini	hankini	N;NOM;SG
 hankini	hankini	N;ACC;SG
 hiirishaukka	hiirishaukka	N;NOM;SG
@@ -192,7 +192,6 @@ meččähini	meččähini	N;NOM;SG
 meččähini	meččähini	N;ACC;SG
 molen	molen	PRO;NOM;SG
 molen	molen	PRO;ACC;SG
-murentua	murentua	V;NFIN
 murte	murte	N;NOM;SG
 murte	murte	N;ACC;SG
 mušikka	mušikka	N;NOM;SG
@@ -237,7 +236,6 @@ tanhut	tanhut	N;ACC;SG
 tarie	tarie	V;NFIN
 telat	telat	N;NOM;SG
 telat	telat	N;ACC;SG
-totuttua	totuttua	V;NFIN
 tuahtukku	tuahtukku	N;NOM;SG
 tuahtukku	tuahtukku	N;ACC;SG
 tuattopuoli	tuattopuoli	N;NOM;SG

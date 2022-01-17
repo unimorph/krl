@@ -1,7 +1,5 @@
 # Karelian Proper: Knyazhaya
 aikuo	aikuo	V;NFIN
-alasin	alasin	N;NOM;SG
-alasin	alasin	N;ACC;SG
 alisin	alisin	N;NOM;SG
 alisin	alisin	N;ACC;SG
 arvuuttaja	arvuuttaja	N;NOM;SG
@@ -90,7 +88,6 @@ mečäneläjä	mečäneläjä	N;NOM;SG
 mečäneläjä	mečäneläjä	N;ACC;SG
 muotopuoli	muotopuoli	N;NOM;SG
 muotopuoli	muotopuoli	N;ACC;SG
-murata	murata	V;NFIN
 musie	musie	ADJ;NOM;SG
 musie	musie	ADJ;ACC;SG
 muššelma	muššelma	N;NOM;SG
@@ -98,10 +95,8 @@ muššelma	muššelma	N;ACC;SG
 müöhäistüä	müöhäistüä	V;NFIN
 nenähuojen	nenähuojen	N;NOM;SG
 nenähuojen	nenähuojen	N;ACC;SG
-n’uukata	n’uukata	V;NFIN
 oša	oša	N;NOM;SG
 oša	oša	N;ACC;SG
-ošata	ošata	V;NFIN
 paise	paise	N;NOM;SG
 paise	paise	N;ACC;SG
 pakkula	pakkula	N;NOM;SG
