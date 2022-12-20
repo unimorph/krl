@@ -10,6 +10,7 @@ aitt	aitt	N;ACC;SG
 aiz	aiz	N;NOM;SG
 aiz	aiz	N;ACC;SG
 ajuu	ajuu	V;NFIN
+ajuu	ajetti	V;PST;IPFV;IND;POS;3;PL
 akk	akk	N;NOM;SG
 akk	akk	N;ACC;SG
 alewtuu	alewtuu	V;NFIN
@@ -47,10 +48,12 @@ bučk	bučk	N;NOM;SG
 bučk	bučk	N;ACC;SG
 diada	diada	N;NOM;SG
 diada	diada	N;ACC;SG
+dogadie	dogdita	V;PRS;IND;POS;3;PL
 doobičč	doobičč	N;NOM;SG
 doobičč	doobičč	N;ACC;SG
 dorog	dorog	N;NOM;SG
 dorog	dorog	N;ACC;SG
+dorog	dorgua	N;PRT;SG
 duumaiji	duumaiji	V;NFIN
 edhin’	edhin’	ADJ;NOM;SG
 edhin’	edhin’	ADJ;ACC;SG
@@ -153,6 +156,7 @@ ikkun	ikkun	N;ACC;SG
 ild	ild	N;NOM;SG
 ild	ild	N;ACC;SG
 imii	imii	V;NFIN
+iskie	iskietä	V;PRS;IND;POS;3;PL
 itkii	itkii	V;NFIN
 izändi	izändi	N;NOM;SG
 izändi	izändi	N;ACC;SG
@@ -178,6 +182,7 @@ juabuu	juabuu	V;NFIN
 juottuu	juottuu	V;NFIN
 juur’	juur’	N;NOM;SG
 juur’	juur’	N;ACC;SG
+juuva	juuva	V;PRS;IND;POS;3;PL
 jäičči	jäičči	N;NOM;SG
 jäičči	jäičči	N;ACC;SG
 jälgmän’	jälgmän’	ADJ;NOM;SG
@@ -227,6 +232,7 @@ karh	karh	N;NOM;SG
 karh	karh	N;ACC;SG
 karilzet	karilzet	N;NOM;SG
 karilzet	karilzet	N;ACC;SG
+karrata	kaarta	V;PRS;IND;POS;3;PL
 kart	kart	N;NOM;SG
 kart	kart	N;ACC;SG
 karv	karv	N;NOM;SG
@@ -250,6 +256,7 @@ keittii	keittii	V;NFIN
 kekšii	kekšii	V;NFIN
 keldtavd	keldtavd	N;NOM;SG
 keldtavd	keldtavd	N;ACC;SG
+ken	kel’d’	PRO;AT+ABL;SG
 kerd	kerd	N;NOM;SG
 kerd	kerd	N;ACC;SG
 kerii	kerii	V;NFIN
@@ -285,11 +292,40 @@ kitkii	kitkii	V;NFIN
 kiuguu	kiuguu	N;NOM;SG
 kiuguu	kiuguu	N;ACC;SG
 kizuu	kizuu	V;NFIN
+kizuu	kiis’ta	V;PRS;IND;POS;3;PL
 kiäg	kiäg	N;NOM;SG
 kiäg	kiäg	N;ACC;SG
 kiänii	kiänii	V;NFIN
 kobr	kobr	N;NOM;SG
 kobr	kobr	N;ACC;SG
+kodi	kodi	N;NOM;SG
+kodi	kodi	N;ACC;SG
+kodi	kodie	N;PRT;SG
+kodi	kodina	N;FRML;SG
+kodi	kodih	N;IN+ALL;SG
+kodi	kodiloin	N;INS;PL
+kodi	kodiloina	N;FRML;PL
+kodi	kodiloiksi	N;TRANS;PL
+kodi	kodiloissa	N;IN+ESS;PL
+kodi	kodiloista	N;IN+ABL;PL
+kodi	kodiloih	N;IN+ALL;PL
+kodi	kodiloilla	N;AT+ESS+ALL;PL
+kodi	kodiloitta	N;PRIV ;PL
+kodi	kojin	N;GEN;SG
+kodi	kojin	N;ACC;SG
+kodi	kodiloineh	N;COM;SG
+kodi	kodiloineh	N;COM;PL
+kodi	kodiloilta	N;AT+ABL;PL
+kodi	kojiksi	N;TRANS;SG
+kodi	kojitta	N;PRIV ;SG
+kodi	kojissa	N;IN+ESS;SG
+kodi	kojista	N;IN+ABL;SG
+kodi	kojilla	N;AT+ESS+ALL;SG
+kodi	kojilta	N;AT+ABL;SG
+kodi	kojilluo	N;APPRX;SG
+kodi	kojit	N;NOM;PL
+kodi	kojit	N;ACC;PL
+kodi	kod’	N;NOM;SG
 kohallin	kohallin	ADJ;NOM;SG
 kohallin	kohallin	ADJ;ACC;SG
 kohenduu	kohenduu	V;NFIN
@@ -361,6 +397,33 @@ kuuž	kuuž	NUM;NOM;SG
 kuuž	kuuž	NUM;ACC;SG
 kučuttuu	kučuttuu	V;NFIN
 kuččuu	kuččuu	V;NFIN
+kylä	kylän	N;GEN;SG
+kylä	kylän	N;ACC;SG
+kylä	kyliä	N;PRT;SG
+kylä	kylä	N;NOM;SG
+kylä	kylä	N;ACC;SG
+kylä	kylänä	N;FRML;SG
+kylä	kyläkši	N;TRANS;SG
+kylä	kyläh	N;IN+ALL;SG
+kylä	kylättä	N;PRIV ;SG
+kylä	kylät	N;NOM;PL
+kylä	kylät	N;ACC;PL
+kylä	kylin	N;INS;PL
+kylä	kylinä	N;FRML;PL
+kylä	kyliksi	N;TRANS;PL
+kylä	kylih	N;IN+ALL;PL
+kylä	kylällyö	N;APPRX;SG
+kylä	kylineh	N;COM;SG
+kylä	kylineh	N;COM;PL
+kylä	kyläšš	N;IN+ESS;SG
+kylä	kyläšt	N;IN+ABL;SG
+kylä	kyläll	N;AT+ESS+ALL;SG
+kylä	kylält	N;AT+ABL;SG
+kylä	kylitt	N;PRIV ;PL
+kylä	kyliss	N;IN+ESS;PL
+kylä	kylist	N;IN+ABL;PL
+kylä	kylill	N;AT+ESS+ALL;PL
+kylä	kylilt	N;AT+ABL;PL
 käbri	käbri	N;NOM;SG
 käbri	käbri	N;ACC;SG
 kätkii	kätkii	V;NFIN
@@ -415,6 +478,9 @@ levittii	levittii	V;NFIN
 leččii	leččii	V;NFIN
 libii	libii	ADJ;NOM;SG
 libii	libii	ADJ;ACC;SG
+liha	liha	N;NOM;SG
+liha	lihu	N;PRT;SG
+liha	lihuu	N;PRT;SG
 liig	liig	ADJ;NOM;SG
 liig	liig	ADJ;ACC;SG
 lind	lind	N;NOM;SG
@@ -458,6 +524,7 @@ luzikk	luzikk	N;NOM;SG
 luzikk	luzikk	N;ACC;SG
 lähin’	lähin’	ADJ;NOM;SG
 lähin’	lähin’	ADJ;ACC;SG
+lähtie	läks’	V;PST;IPFV;IND;POS;3;SG
 läimüü	läimüü	V;NFIN
 lämminpual’	lämminpual’	N;NOM;SG
 lämminpual’	lämminpual’	N;ACC;SG
@@ -501,6 +568,9 @@ miatk	miatk	N;NOM;SG
 miatk	miatk	N;ACC;SG
 miatka	miatka	N;NOM;SG
 miatka	miatka	N;ACC;SG
+mid’	mid’	PRO;NOM;SG
+mid’	mid’	PRO;ACC;SG
+miä	miul	PRO;AT+ESS+ALL;SG
 miäldüä	miäldüä	V;NFIN
 miäčč	miäčč	N;NOM;SG
 miäčč	miäčč	N;ACC;SG
@@ -531,6 +601,8 @@ muwruan	muwruan	N;NOM;SG
 muwruan	muwruan	N;ACC;SG
 mušt	mušt	ADJ;NOM;SG
 mušt	mušt	ADJ;ACC;SG
+myö	meil’	PRO;AT+ESS+ALL;PL
+myö	mejät	PRO;ACC;PL
 mähn	mähn	N;NOM;SG
 mähn	mähn	N;ACC;SG
 märehtii	märehtii	V;NFIN
@@ -556,6 +628,8 @@ nelläšpäiv	nelläšpäiv	N;NOM;SG
 nelläšpäiv	nelläšpäiv	N;ACC;SG
 nel’l’	nel’l’	NUM;NOM;SG
 nel’l’	nel’l’	NUM;ACC;SG
+nemcat	nemcat	N;NOM;PL
+nemcat	nemcoi	N;PRT;PL
 niagl	niagl	N;NOM;SG
 niagl	niagl	N;ACC;SG
 niakossi	niakossi	N;NOM;SG
@@ -589,6 +663,10 @@ okš	okš	N;NOM;SG
 okš	okš	N;ACC;SG
 olg	olg	N;NOM;SG
 olg	olg	N;ACC;SG
+olla	ol’	V;PST;IPFV;IND;NEG;2;SG
+olla	olla	V;PRS;IND;NEG;3;PL
+olla	olla	V;NFIN
+olla	oldi	V;PST;IPFV;IND;POS;3;PL
 ommell	ommell	V;NFIN
 ong	ong	N;NOM;SG
 ong	ong	N;ACC;SG
@@ -612,6 +690,7 @@ očč	očč	N;NOM;SG
 očč	očč	N;ACC;SG
 oštuu	oštuu	V;NFIN
 ožawduu	ožawduu	V;NFIN
+ožuttua	ožtan	V;PRS;IND;POS;1;SG
 pagan	pagan	ADJ;NOM;SG
 pagan	pagan	ADJ;ACC;SG
 paid	paid	N;NOM;SG
@@ -645,6 +724,8 @@ perži	perži	N;NOM;SG
 perži	perži	N;ACC;SG
 per’t’	per’t’	N;NOM;SG
 per’t’	per’t’	N;ACC;SG
+per’t’	pertis’s’	N;IN+ESS;SG
+per’t’	pertist	N;IN+ABL;SG
 petkel’	petkel’	N;NOM;SG
 petkel’	petkel’	N;ACC;SG
 petl’	petl’	N;NOM;SG
@@ -660,6 +741,7 @@ pird	pird	N;NOM;SG
 pird	pird	N;ACC;SG
 pit’k	pit’k	ADJ;NOM;SG
 pit’k	pit’k	ADJ;ACC;SG
+piä	piäšš	N;IN+ESS;SG
 piäničč	piäničč	N;NOM;SG
 piäničč	piäničč	N;ACC;SG
 piäčakk	piäčakk	N;NOM;SG
@@ -673,6 +755,7 @@ poig	poig	N;ACC;SG
 polovikk	polovikk	N;NOM;SG
 polovikk	polovikk	N;ACC;SG
 poltuu	poltuu	V;NFIN
+poltuu	poltetti	V;PST;IPFV;IND;POS;3;PL
 počk	počk	N;NOM;SG
 počk	počk	N;ACC;SG
 poččin	poččin	N;NOM;SG
@@ -680,6 +763,9 @@ poččin	poččin	N;ACC;SG
 prostii	prostii	V;NFIN
 pruaznikk	pruaznikk	N;NOM;SG
 pruaznikk	pruaznikk	N;ACC;SG
+puali	puali	N;NOM;SG
+puali	puali	N;ACC;SG
+puali	pualet	N;NOM;PL
 pual’	pual’	N;NOM;SG
 pual’	pual’	N;ACC;SG
 pual’toist	pual’toist	NUM;NOM;SG
@@ -748,6 +834,8 @@ rist’	rist’	N;NOM;SG
 rist’	rist’	N;ACC;SG
 riähki	riähki	N;NOM;SG
 riähki	riähki	N;ACC;SG
+riähki	riähki	V;NFIN
+riähki	riähkiy	V;PRS;IND;POS;3;SG
 riähtel’	riähtel’	N;NOM;SG
 riähtel’	riähtel’	N;ACC;SG
 rodit’l’at	rodit’l’at	N;NOM;SG
@@ -835,6 +923,7 @@ talt	talt	N;NOM;SG
 talt	talt	N;ACC;SG
 tanhuu	tanhuu	N;NOM;SG
 tanhuu	tanhuu	N;ACC;SG
+tappuu	tapta	V;PRS;IND;POS;3;PL
 tappuu	tappuu	V;NFIN
 tartuu	tartuu	V;NFIN
 tavar	tavar	N;NOM;SG
@@ -876,6 +965,8 @@ turbačču	turbačču	N;ACC;SG
 tuu	tuu	PRO;NOM;SG
 tuu	tuu	PRO;ACC;SG
 tuulduu	tuulduu	V;NFIN
+tuuvva	tuuva	V;PRS;IND;POS;3;PL
+tuuvva	tuadi	V;PST;IPFV;IND;POS;3;PL
 tvetta	tvetta	N;NOM;SG
 tvetta	tvetta	N;ACC;SG
 tvettii	tvettii	V;NFIN
@@ -906,6 +997,7 @@ uuličč	uuličč	N;ACC;SG
 uuttuu	uuttuu	V;NFIN
 vabissa	vabissa	V;NFIN
 vaihtuu	vaihtuu	V;NFIN
+valgie	valgiišš	ADJ;IN+ESS;SG
 vallit	vallit	V;NFIN
 valmistuu	valmistuu	V;NFIN
 valuu	valuu	V;NFIN
@@ -947,6 +1039,7 @@ vier	vier	N;NOM;SG
 vier	vier	N;ACC;SG
 vihm	vihm	N;NOM;SG
 vihm	vihm	N;ACC;SG
+viidie	viid’	V;PST;IPFV;IND;POS;3;SG
 viilli	viilli	V;NFIN
 viipsii	viipsii	V;NFIN
 viiz’	viiz’	NUM;NOM;SG
@@ -986,6 +1079,8 @@ väl’l’	väl’l’	N;NOM;SG
 väl’l’	väl’l’	N;ACC;SG
 värč	värč	N;NOM;SG
 värč	värč	N;ACC;SG
+vöny	vöny	V;NFIN
+vöny	vönymmä	V;PRS;IND;POS;1;PL
 vönüläzet	vönüläzet	N;NOM;SG
 vönüläzet	vönüläzet	N;ACC;SG
 vönüü	vönüü	V;NFIN
@@ -1049,7 +1144,12 @@ zvezda	zvezda	N;ACC;SG
 šarv	šarv	N;NOM;SG
 šarv	šarv	N;ACC;SG
 šeizattuu	šeizattuu	V;NFIN
+šeizattuu	šeizattih	V;PST;IPFV;IND;POS;3;PL
 šeiz’uo	šeiz’uo	V;NFIN
+šeiz’uo	šeiz’ta	V;PRS;IND;POS;3;PL
+šeiz’uo	šeiz’otti	V;PST;IPFV;IND;POS;3;PL
+šeičmen	šeičmen	NUM;NOM;SG
+šeičmen	šeičmen	NUM;ACC;SG
 šeppi	šeppi	N;NOM;SG
 šeppi	šeppi	N;ACC;SG
 šeppi	šeppi	N;NOM;SG
@@ -1102,6 +1202,7 @@ zvezda	zvezda	N;ACC;SG
 šurm	šurm	N;ACC;SG
 šuur	šuur	ADJ;NOM;SG
 šuur	šuur	ADJ;ACC;SG
+šuur	šuurešt	ADJ;IN+ABL;SG
 šuvva	šuvva	V;NFIN
 švedat	švedat	N;NOM;SG
 švedat	švedat	N;ACC;SG
@@ -1113,11 +1214,13 @@ zvezda	zvezda	N;ACC;SG
 šül’	šül’	N;NOM;SG
 šül’	šül’	N;ACC;SG
 šüvvi	šüvvi	V;NFIN
+že	žešš	PRO;IN+ESS;SG
 žernofk	žernofk	N;NOM;SG
 žernofk	žernofk	N;ACC;SG
 žiivatt	žiivatt	N;NOM;SG
 žiivatt	žiivatt	N;ACC;SG
 žuabrat	žuabrat	N;NOM;SG
 žuabrat	žuabrat	N;ACC;SG
+žuarie	žuarita	V;PRS;IND;POS;3;PL
 žuka	žuka	N;NOM;SG
 žuka	žuka	N;ACC;SG

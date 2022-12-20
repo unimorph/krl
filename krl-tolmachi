@@ -1,5 +1,6 @@
 # Karelian Proper: Tolmachi
 Irina	Irina	PROPN;NOM;SG
+Nasto	Nasto	PROPN;NOM;SG
 aijan	aijan	N;NOM;SG
 aijan	aijan	N;ACC;SG
 ajanda	ajanda	N;NOM;SG
@@ -162,6 +163,7 @@ ilvewš	ilvewš	N;NOM;SG
 ilvewš	ilvewš	N;ACC;SG
 iänewdüö	iänewdüö	V;NFIN
 juwva	juwva	V;NFIN
+jänis’	jänissän	N;ACC;SG
 järittiä	järittiä	V;NFIN
 kablie	kablie	V;NFIN
 kabuta	kabui	V;PST;IPFV;IND;POS;3;SG
@@ -204,9 +206,12 @@ kuwlla	kuwlla	V;NFIN
 kuzimuuruahine	kuzimuuruahine	N;NOM;SG
 kuzimuuruahine	kuzimuuruahine	N;ACC;SG
 kylyne	kylyzeh	N;IN+ALL;SG
+kyynel’	kyynelilöillä	N;PRIV ;PL
 kärhät	kärhät	N;NOM;SG
 kärhät	kärhät	N;ACC;SG
 käržittiä	käržittiä	V;NFIN
+kätkie	kät’kietäh	V;PRS;IND;POS;3;PL
+käzi	käzilöissä	N;IN+ESS;PL
 kündiä	kündiä	V;NFIN
 küwhkü	küwhkü	N;NOM;SG
 küwhkü	küwhkü	N;ACC;SG
@@ -214,6 +219,7 @@ küwnel	küwnel	N;NOM;SG
 küwnel	küwnel	N;ACC;SG
 landiet	landiet	N;NOM;SG
 landiet	landiet	N;ACC;SG
+laškie	laškietah	V;PRS;IND;POS;3;PL
 lewga	lewga	N;NOM;SG
 lewga	lewga	N;ACC;SG
 liipka	liipka	N;NOM;SG
@@ -230,6 +236,9 @@ lotka	lotka	N;ACC;SG
 luka	luka	N;NOM;SG
 luka	luka	N;ACC;SG
 luwva	luwva	V;NFIN
+lähtie	lähtietäh	V;PRS;IND;POS;3;PL
+lähtie	lähtiettih	V;PRS;IND;NEG;3;PL
+lähtie	lähtei	V;PST;IPFV;IND;POS;3;PL
 läimiä	läimiä	V;NFIN
 lämbymärandakariela	lämbymärandakarielakši	N;TRANS;SG
 lämbymärandane	lämbymärandazet	ADJ;NOM;PL
@@ -281,6 +290,34 @@ murčowhka	murčowhka	N;ACC;SG
 mučoittua	mučoittua	V;NFIN
 mužova	mužova	ADJ;NOM;SG
 mužova	mužova	ADJ;ACC;SG
+myttynäne	myttynäne	PRO;NOM;SG
+myttynäne	myttynäne	PRO;ACC;SG
+myttynäne	myttynäzen	PRO;GEN;SG
+myttynäne	myttynäzen	PRO;ACC;SG
+myttynäne	myttynästä	PRO;PRT;SG
+myttynäne	myttynäzenä	PRO;FRML;SG
+myttynäne	myttynäzekši	PRO;TRANS;SG
+myttynäne	myttynäzeššä	PRO;IN+ESS;SG
+myttynäne	myttynäzeštä	PRO;IN+ABL;SG
+myttynäne	myttynäzeh	PRO;IN+ALL;SG
+myttynäne	myttynäzellä	PRO;AT+ESS+ALL;SG
+myttynäne	myttynäzeltä	PRO;AT+ABL;SG
+myttynäne	myttynäzettä	PRO;PRIV ;SG
+myttynäne	myttynäzineh	PRO;COM;SG
+myttynäne	myttynäzineh	PRO;COM;PL
+myttynäne	myttynäzet	PRO;NOM;PL
+myttynäne	myttynäzet	PRO;ACC;PL
+myttynäne	myttynäzien	PRO;GEN;PL
+myttynäne	myttynäzie	PRO;PRT;PL
+myttynäne	myttynäzinä	PRO;FRML;PL
+myttynäne	myttynäziksi	PRO;TRANS;PL
+myttynäne	myttynäzissä	PRO;IN+ESS;PL
+myttynäne	myttynäzistä	PRO;IN+ABL;PL
+myttynäne	myttynäzih	PRO;IN+ALL;PL
+myttynäne	myttynäzillä	PRO;AT+ESS+ALL;PL
+myttynäne	myttynäziltä	PRO;AT+ABL;PL
+myttynäne	myttynäzittä	PRO;PRIV ;PL
+myttynäne	myttynäzin	PRO;INS;PL
 möngüö	möngüö	V;NFIN
 müöštiäčie	müöštiäčie	V;NFIN
 newguo	newguo	V;NFIN
@@ -297,6 +334,9 @@ ogaš	ogaš	N;ACC;SG
 ogehane	ogehane	N;NOM;SG
 ogehane	ogehane	N;ACC;SG
 olgupiä	olgupiällä	N;AT+ESS+ALL;SG
+olla	olla	V;NFIN
+olla	oliin	V;PST;IPFV;IND;POS;1;SG
+olla	evlun	V;PST;IPFV;IND;NEG;3;SG
 orahankarvaine	orahankarvaine	ADJ;NOM;SG
 orahankarvaine	orahankarvaine	ADJ;ACC;SG
 orane	orazella	N;AT+ESS+ALL;SG
@@ -327,6 +367,33 @@ puolipäivänranda	puolipäivänranda	N;ACC;SG
 puoliüöranda	puoliüöranda	N;NOM;SG
 puoliüöranda	puoliüöranda	N;ACC;SG
 puwttuo	puwttuo	V;NFIN
+päivä	päivän	N;GEN;SG
+päivä	päivän	N;ACC;SG
+päivä	päivin	N;INS;PL
+päivä	päiviä	N;PRT;SG
+päivä	piänä	N;FRML;SG
+päivä	päivä	N;NOM;SG
+päivä	päivä	N;ACC;SG
+päivä	päivänä	N;FRML;SG
+päivä	päiväkši	N;TRANS;SG
+päivä	päiväššä	N;IN+ESS;SG
+päivä	päiväštä	N;IN+ABL;SG
+päivä	päiväh	N;IN+ALL;SG
+päivä	päivällä	N;AT+ESS+ALL;SG
+päivä	päivättä	N;PRIV ;SG
+päivä	päivät	N;NOM;PL
+päivä	päivät	N;ACC;PL
+päivä	päivinä	N;FRML;PL
+päivä	päiviksi	N;TRANS;PL
+päivä	päivissä	N;IN+ESS;PL
+päivä	päivistä	N;IN+ABL;PL
+päivä	päivih	N;IN+ALL;PL
+päivä	päivillä	N;AT+ESS+ALL;PL
+päivä	päivittä	N;PRIV ;PL
+päivä	päivältä	N;AT+ABL;SG
+päivä	päivineh	N;COM;SG
+päivä	päivineh	N;COM;PL
+päivä	päiviltä	N;AT+ABL;PL
 päiväzenlaškuranda	päiväzenlaškuranda	N;NOM;SG
 päiväzenlaškuranda	päiväzenlaškuranda	N;ACC;SG
 päiväzennouzuranda	päiväzennouzuranda	N;NOM;SG
@@ -386,10 +453,39 @@ talohuš	talohuš	N;NOM;SG
 talohuš	talohuš	N;ACC;SG
 tieduija	tieduija	V;NFIN
 tietä	tietä	V;NFIN
+tietä	tiettäis’	V;PST;IPFV;COND;POS;3;PL
+toine	toine	ADJ;NOM;SG
+toine	toine	ADJ;ACC;SG
+toine	toizen	ADJ;GEN;SG
+toine	toizen	ADJ;ACC;SG
+toine	toista	ADJ;PRT;SG
+toine	toizena	ADJ;FRML;SG
+toine	toizekši	ADJ;TRANS;SG
+toine	toizešša	ADJ;IN+ESS;SG
+toine	toizešta	ADJ;IN+ABL;SG
+toine	toizeh	ADJ;IN+ALL;SG
+toine	toizella	ADJ;AT+ESS+ALL;SG
+toine	toizetta	ADJ;PRIV ;SG
+toine	toizet	ADJ;NOM;PL
+toine	toizet	ADJ;ACC;PL
+toine	toizin	ADJ;INS;PL
+toine	toizina	ADJ;FRML;PL
+toine	toiziksi	ADJ;TRANS;PL
+toine	toizissa	ADJ;IN+ESS;PL
+toine	toizista	ADJ;IN+ABL;PL
+toine	toizih	ADJ;IN+ALL;PL
+toine	toizilla	ADJ;AT+ESS+ALL;PL
+toine	toizitta	ADJ;PRIV ;PL
+toine	toizelta	ADJ;AT+ABL;SG
+toine	toizineh	ADJ;COM;SG
+toine	toizineh	ADJ;COM;PL
+toine	toizilta	ADJ;AT+ABL;PL
+toine	toissa	ADJ;FRML;SG
 tuahitukku	tuahitukku	N;NOM;SG
 tuahitukku	tuahitukku	N;ACC;SG
 tukku	tukku	N;NOM;SG
 tukku	tukku	N;ACC;SG
+tulla	tuliit	V;PST;IPFV;IND;POS;2;SG
 tunnuštua	tunnuštua	V;NFIN
 töwkätä	töwkätä	V;NFIN
 tüunistüö	tüunistüö	V;NFIN
@@ -407,6 +503,7 @@ vandahuš	vandahuš	N;NOM;SG
 vandahuš	vandahuš	N;ACC;SG
 vannaš	vannaš	N;NOM;SG
 vannaš	vannaš	N;ACC;SG
+varata	varai	V;PST;IPFV;IND;POS;3;SG
 varata	varaima	V;PST;IPFV;IND;POS;1;PL
 vardilo	vardilo	N;NOM;SG
 vardilo	vardilo	N;ACC;SG
@@ -433,8 +530,31 @@ viühtie	viühtie	V;NFIN
 voija	voičis’	V;PST;IPFV;COND;POS;3;SG
 voina	voinan	N;GEN;SG
 voina	voinan	N;ACC;SG
+voina	voinua	N;PRT;SG
 voina	voina	N;NOM;SG
+voina	voina	N;ACC;SG
+voina	voinin	N;INS;PL
 voina	voinah	N;IN+ALL;SG
+voina	voinat	N;NOM;PL
+voina	voinat	N;ACC;PL
+voina	voinih	N;IN+ALL;PL
+voina	voinalluo	N;APPRX;SG
+voina	voinana	N;FRML;SG
+voina	voinakši	N;TRANS;SG
+voina	voinatta	N;PRIV ;SG
+voina	voinašša	N;IN+ESS;SG
+voina	voinašta	N;IN+ABL;SG
+voina	voinalla	N;AT+ESS+ALL;SG
+voina	voinalta	N;AT+ABL;SG
+voina	voinineh	N;COM;SG
+voina	voinineh	N;COM;PL
+voina	voinina	N;FRML;PL
+voina	voiniksi	N;TRANS;PL
+voina	voinitta	N;PRIV ;PL
+voina	voinissa	N;IN+ESS;PL
+voina	voinista	N;IN+ABL;PL
+voina	voinilla	N;AT+ESS+ALL;PL
+voina	voinilta	N;AT+ABL;PL
 volna	volna	N;NOM;SG
 volna	volna	N;ACC;SG
 vuahtera	vuahtera	N;NOM;SG
@@ -460,6 +580,9 @@ zvolat	zvolat	N;ACC;SG
 šadula	šadula	N;ACC;SG
 šamalo	šamalo	N;NOM;SG
 šamalo	šamalo	N;ACC;SG
+šanella	šaneliin	V;PST;IPFV;IND;POS;1;SG
+šanoldua	šanallit	V;PST;IPFV;IND;POS;2;SG
+šanoldua	šanaldi	V;PST;IPFV;IND;POS;3;SG
 še	šen	PRO;GEN;SG
 šein’	šein’	N;NOM;SG
 šein’	šein’	N;ACC;SG

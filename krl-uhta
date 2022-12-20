@@ -115,8 +115,6 @@ hiirishaukka	hiirishaukka	N;NOM;SG
 hiirishaukka	hiirishaukka	N;ACC;SG
 hiisi	hiisi	N;NOM;SG
 hiisi	hiisi	N;ACC;SG
-hiitroi	hiitroi	ADJ;NOM;SG
-hiitroi	hiitroi	ADJ;ACC;SG
 hiivishaukka	hiivishaukka	N;NOM;SG
 hiivishaukka	hiivishaukka	N;ACC;SG
 huhmari	huhmari	N;NOM;SG
@@ -198,6 +196,34 @@ mušikka	mušikka	N;NOM;SG
 mušikka	mušikka	N;ACC;SG
 naperska	naperska	N;NOM;SG
 naperska	naperska	N;ACC;SG
+navetta	navetta	N;NOM;SG
+navetta	navetta	N;ACC;SG
+navetta	navetan	N;GEN;SG
+navetta	navetan	N;ACC;SG
+navetta	navettua	N;PRT;SG
+navetta	navettana	N;FRML;SG
+navetta	navetakši	N;TRANS;SG
+navetta	navetašša	N;IN+ESS;SG
+navetta	navetašta	N;IN+ABL;SG
+navetta	navettah	N;IN+ALL;SG
+navetta	navetalla	N;AT+ESS+ALL;SG
+navetta	navetalta	N;AT+ABL;SG
+navetta	navetatta	N;PRIV ;SG
+navetta	navettoineh	N;COM;SG
+navetta	navettoineh	N;COM;PL
+navetta	navetat	N;NOM;PL
+navetta	navetat	N;ACC;PL
+navetta	navettojen	N;GEN;PL
+navetta	navettoja	N;PRT;PL
+navetta	navettoina	N;FRML;PL
+navetta	navetoiksi	N;TRANS;PL
+navetta	navetoissa	N;IN+ESS;PL
+navetta	navetoista	N;IN+ABL;PL
+navetta	navettoih	N;IN+ALL;PL
+navetta	navetoilla	N;AT+ESS+ALL;PL
+navetta	navetoilta	N;AT+ABL;PL
+navetta	navetoitta	N;PRIV ;PL
+navetta	navetoin	N;INS;PL
 nuoraset	nuoraset	N;NOM;SG
 nuoraset	nuoraset	N;ACC;SG
 ohimo	ohimo	N;NOM;SG

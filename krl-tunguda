@@ -14,7 +14,35 @@ ailahat	ailahat	N;NOM;SG
 ailahat	ailahat	N;ACC;SG
 ainuo	ainuo	ADJ;NOM;SG
 ainuo	ainuo	ADJ;ACC;SG
+ambuo	ambu	V;PST;IPFV;IND;POS;3;SG
+ambuo	ambu	V;IMP;POS;2;SG
+ambuo	ambun	V;PRS;IND;POS;1;SG
+ambuo	ambuu	V;PRS;IND;POS;3;SG
 ambuo	ambuo	V;NFIN
+ambuo	ambut	V;PRS;IND;POS;2;SG
+ambuo	ambuin	V;PST;IPFV;IND;POS;1;SG
+ambuo	ambuit	V;PST;IPFV;IND;POS;2;SG
+ambuo	ambusin	V;PST;IPFV;COND;POS;1;SG
+ambuo	en ambu	V;PRS;IND;NEG;1;SG
+ambuo	ei ambu	V;PRS;IND;NEG;3;SG
+ambuo	ambumma	V;PRS;IND;POS;1;PL
+ambuo	ambutta	V;PRS;IND;POS;2;PL
+ambuo	et ambu	V;PRS;IND;NEG;2;SG
+ambuo	emmä ambu	V;PRS;IND;NEG;1;PL
+ambuo	että ambu	V;PRS;IND;NEG;2;PL
+ambuo	ambuma	V;PST;IPFV;IND;POS;1;PL
+ambuo	ambuja	V;PST;IPFV;IND;POS;2;PL
+ambuo	ambuja	V.PTCP;PRS;ACT
+ambuo	elä ambu	V;IMP;NEG;2;SG
+ambuo	ambusit	V;PST;IPFV;COND;POS;2;SG
+ambuo	ambuis	V;PST;IPFV;COND;POS;3;SG
+ambuo	ambusima	V;PST;IPFV;COND;POS;1;PL
+ambuo	ambusija	V;PST;IPFV;COND;POS;2;PL
+ambuo	en ambuis	V;PST;IPFV;COND;NEG;1;SG
+ambuo	et ambuis	V;PST;IPFV;COND;NEG;2;SG
+ambuo	ei ambuis	V;PST;IPFV;COND;NEG;3;SG
+ambuo	emmä ambuis	V;PST;IPFV;COND;NEG;1;PL
+ambuo	että ambuis	V;PST;IPFV;COND;NEG;2;PL
 arteli	arteli	N;NOM;SG
 arteli	arteli	N;ACC;SG
 arva	arva	N;NOM;SG
@@ -73,8 +101,6 @@ haga	haga	N;ACC;SG
 haiz’uo	haiz’uo	V;NFIN
 havaččeuduo	havaččeuduo	V;NFIN
 haveččeuduo	haveččeuduo	V;NFIN
-helveh	helveh	N;NOM;SG
-helveh	helveh	N;ACC;SG
 hengittüä	hengittüä	V;NFIN
 hepokkaine	hepokkaine	N;NOM;SG
 hepokkaine	hepokkaine	N;ACC;SG
@@ -336,6 +362,7 @@ rüžä	rüžä	N;NOM;SG
 rüžä	rüžä	N;ACC;SG
 satattua	satattua	V;NFIN
 seizattua	seizattua	V;NFIN
+seizattua	seiztettu	V;PST;IPFV;IND;POS;3;PL
 seiz’uo	seiz’uo	V;NFIN
 selitra	selitra	N;NOM;SG
 selitra	selitra	N;ACC;SG
